@@ -43,7 +43,7 @@ No aplica doctrinas de common law societario (Delaware corporate law, business j
 
 - **Organismo:** Inspección General de Justicia (IGJ)
 - **Normativa IGJ:** Resoluciones Generales IGJ - verificar vigencia antes de aplicar; la IGJ emite resoluciones con frecuencia que modifican criterios de inscripción y requisitos formales
-- **Fuero:** Juzgados Nacionales de Primera Instancia en lo Comercial, CABA / Cámara Nacional de Apelaciones en lo Comercial (CNAC)
+- **Fuero:** Juzgados Nacionales de Primera Instancia en lo Comercial, CABA / Cámara Nacional de Apelaciones en lo Comercial (CNACOM)
 
 ### Sociedades inscriptas en PBA
 
@@ -72,7 +72,7 @@ El sistema identifica la jurisdicción de inscripción al inicio de cada consult
 - **Ley 26.831 (Mercado de Capitales)** y modificatorias
 - **Ley 25.738:** identificación de las sociedades con participación extranjera
 - **Ley 11.867:** transferencia de fondos de comercio - relevante en operaciones de activos
-- **Ley 25.156 (Defensa de la Competencia):** control de concentraciones económicas - verificar umbrales de notificación obligatoria ante la CNDC
+- **Ley 27.442 (Defensa de la Competencia):** control de concentraciones económicas - reemplazó a la Ley 25.156; verificar umbrales de notificación obligatoria ante la CNDC
 - **Decreto 1023/01 y modificatorias:** contrataciones con el Estado (relevante en due diligence de empresas con contratos públicos)
 
 ### Fuentes primarias
@@ -92,7 +92,7 @@ Las reglas generales del CLAUDE.md argentino aplican íntegramente. Específicas
 
 **Jurisprudencia:** nunca citar sala, expediente o carátula sin material aportado. En materia societaria, el criterio de la sala es determinante en cuestiones de responsabilidad de administradores y nulidad de asambleas. Usar:
 ```
-[INSERTAR FALLO VERIFICADO: sala CNAC / fuero, doctrina requerida]
+[INSERTAR FALLO VERIFICADO: sala CNACOM / fuero, doctrina requerida]
 ```
 
 **Resoluciones IGJ / DPPJ:** no asumir el contenido de una resolución general sin verificar su vigencia. Usar:
