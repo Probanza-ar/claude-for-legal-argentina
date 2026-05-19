@@ -38,6 +38,9 @@ conector no estaba disponible.
 | 2 - Psflores (PJN/CABA) | Jurisprudencia fueros nacionales | Acceder a pjn.gov.ar o buenosaires.gob.ar/jusbaires y pegar el fallo en la sesión |
 | 3 - guidobonomini | Análisis semántico / glosario | Operar con el glosario del CLAUDE.md argentino; la calidad terminológica puede bajar |
 | 4 - Tesauro SAIJ | Vocabulario jurídico | Usar terminología estándar del CCCN y LCT directamente |
+| 5 - voftec (normas PBA) | Legislación provincial PBA | normas.gba.gob.ar acceso directo sin conector |
+| 6 - joaquinescalante23 (SAIJ) | Investigación profunda en SAIJ: jurisprudencia, legislación, doctrina, dictámenes | saij.gob.ar acceso directo sin conector |
+| 7 - FalloBot | Jurisprudencia multifuente CSJN + SAIJ + JUBA + SCBA | Acceder a cada fuente por separado; ver tabla de fuentes primarias |
 | SCBA | Jurisprudencia PBA | Acceder a scba.gov.ar/jurisprudencia y pegar el fallo en la sesión |
 
 Cuando se usa el fallback manual (pegar texto en sesión), indicar siempre
@@ -136,7 +139,102 @@ Limitaciones:
 
 ---
 
-### 5. FalloBot - CSJN + SAIJ + JUBA + SCBA
+### 5. voftec/normativapba-mcp
+
+**Repositorio:** https://github.com/voftec/normativapba-mcp
+**Fuente:** normas.gba.gob.ar (Sistema de Información Normativa PBA)
+**Función:** Conector para legislación provincial de la Provincia de Buenos Aires.
+Accede en tiempo real a normas.gba.gob.ar: leyes, decretos, resoluciones y
+disposiciones PBA. Verifica vigencia, extrae articulado y construye árboles de
+dependencia normativa (qué modifica, qué deroga, qué reglamenta). Instalable
+directamente vía npx sin necesidad de clonar ni compilar el repositorio.
+**Estado al mayo 2026:** proyecto de la comunidad sin mantenimiento activo declarado.
+Verificar estado antes de usar (ver instrucciones arriba).
+
+Herramientas disponibles:
+
+| Herramienta | Función |
+|---|---|
+| `buscar_normativa` | Búsqueda de normas PBA por parámetros exactos |
+| `verificar_vigencia` | Comprueba si la norma está vigente o fue derogada; autoresolución por número y año |
+| `obtener_articulo` | Extrae un artículo específico (ej. "Art. 5 bis") |
+| `obtener_texto_norma` | Descarga el texto íntegro de la norma; autoresolución por número y año |
+| `alcance_normativo` | Informa la jurisdicción y metadatos del conector al LLM |
+| `exportar_norma` | Genera Markdown estructurado con Frontmatter YAML (Notion / Obsidian) |
+| `relacionar_normativa` | Árbol de dependencias: qué deroga, qué modifica, qué reglamenta |
+| `buscar_por_semantica` | Búsqueda por concepto con expansión de sinónimos vía LLM |
+| `mapa_normativo_tema` | Árbol jerárquico (Leyes → Decretos → Resoluciones) sobre un tema |
+
+Casos de uso:
+- Verificar texto y vigencia de normas provinciales PBA sin acceso manual al portal
+- Obtener el articulado exacto de una ley o decreto PBA para citar en un escrito
+- Construir el mapa normativo de un tema (ej. contratación pública PBA, procedimiento administrativo provincial)
+- Detectar si una norma PBA fue modificada o derogada y por cuál
+
+Limitaciones:
+- Solo normas provinciales PBA (no normas nacionales ni de otras provincias)
+- Requiere Node.js instalado para la instalación vía npx
+- Nota operativa: el README documenta la necesidad de deshabilitar validación SSL
+  (`NODE_TLS_REJECT_UNAUTHORIZED: 0`) para resolver certificados vencidos en el
+  portal gubernamental; evaluar según política de seguridad del entorno
+
+**Fallback:** normas.gba.gob.ar acceso directo sin conector.
+
+---
+
+### 6. joaquinescalante23/saij-mcp  
+
+**Repositorio:** https://github.com/joaquinescalante23/saij-mcp
+**Fuente:** SAIJ (jurisprudencia, legislacion, doctrina y dictamenes)
+**Funcion:** Motor de investigacion profunda en SAIJ con acceso a mas de 330.000
+documentos juridicos. Unico conector gratuito que cubre jurisprudencia, legislacion,
+doctrina y dictamenes en una sola herramienta, con navegacion de grafo legal y
+resolucion directa de citas textuales.
+**Estado al mayo 2026:** proyecto de la comunidad sin mantenimiento activo declarado.
+Verificar estado antes de usar (ver instrucciones arriba).
+
+**Advertencia de infraestructura:** el conector opera mediante ingenieria inversa
+de la API publica de SAIJ (incluida una ruta no documentada oficialmente, `/suggest`).
+No tiene afiliacion con el Ministerio de Justicia de la Nacion. Si SAIJ modifica su
+estructura, el conector puede romperse sin aviso previo. Verificar estado antes de
+cada sesion de uso intensivo.
+
+Herramientas disponibles:
+
+| Herramienta | Funcion |
+|---|---|
+| `saij_search_jurisprudencia` | Busqueda avanzada de fallos y sentencias |
+| `saij_search_legislacion` | Busqueda de leyes, decretos y reglamentaciones |
+| `saij_get_document` | Texto completo con OCR para PDFs escaneados historicos |
+| `saij_get_related_documents` | Navega el grafo legal: normativa citada y fallos relacionados |
+| `saij_get_document_section` | Extrae articulos o secciones especificas de codigos extensos |
+| `saij_resolve_citation` | Convierte una cita textual ("Ley 24.240") en el documento |
+| `saij_suggest_terms` | Autocompletado de terminologia juridica argentina |
+| `saij_get_novedades` | Actualizaciones legales recientes en SAIJ |
+
+Casos de uso:
+- Verificar texto de leyes, decretos y dictamenes sin pegar el texto en sesion
+- Buscar jurisprudencia SAIJ con filtros por fuero, materia y fecha
+- Navegar la red de citas entre un fallo y las normas que aplica (y viceversa)
+- Resolver citas directas en el escrito: el sistema recupera el texto exacto
+- Extraer articulos especificos de codigos extensos sin ingerir el texto completo
+- Acceder a jurisprudencia historica en PDF escaneado mediante OCR integrado
+- Buscar doctrina y dictamenes en la misma operacion que jurisprudencia
+
+Limitaciones:
+- Depende de infraestructura no oficial de SAIJ: mayor riesgo de rotura que conectores 1 y 2
+- No cubre fuentes ajenas a SAIJ (CSJN directa, JUBA, PJN)
+- Los resultados deben verificarse antes de citar: el conector busca y recupera,
+  no garantiza que el fallo sea el mas reciente o el criterio dominante de la sala
+- No reemplaza al conector 1 (Ansvar) para verificacion del texto oficial de normas
+  nacionales: Ansvar accede directamente a InfoLEG; este conector accede a SAIJ,
+  que puede tener versiones menos actualizadas
+
+**Fallback:** saij.gob.ar acceso directo sin conector.
+
+---
+
+### 7. FalloBot - CSJN + SAIJ + JUBA + SCBA
 
 **Endpoint MCP:** `https://api.fallobot.com/mcp`
 **Fuentes consultadas en paralelo:** CSJN, SAIJ, JUBA (sistema de jurisprudencia PBA) y SCBA
@@ -159,7 +257,7 @@ Limitaciones:
 
 ---
 
-### 6. SCBA - Jurisprudencia PBA
+### 8. SCBA - Jurisprudencia PBA
 
 **Estado:** conector MCP de fuente abierta no disponible. FalloBot (conector 5) cubre SCBA vía JUBA. Ver también fuentes directas abajo.
 
@@ -190,11 +288,16 @@ de fuente abierta sería la de mayor impacto para práctica bonaerense.
 | Necesidad | Conector recomendado | Alternativa |
 |---|---|---|
 | Verificar texto de una norma nacional | 1 (Ansvar) | InfoLEG directo |
-| Verificar texto de una norma provincial PBA | Sin conector MCP | normas.gba.gob.ar directo |
-| Buscar jurisprudencia CSJN | 5 (FalloBot, plan Pro) | sj.csjn.gov.ar directo |
-| Buscar jurisprudencia CABA / fueros nacionales | 2 (Psflores) | PJN directo |
-| Buscar jurisprudencia PBA (SCBA y cámaras) | 5 (FalloBot, plan Pro) | JUBA / SCBA directo |
-| Buscar jurisprudencia multifuente simultánea | 5 (FalloBot, plan Pro) | Fuentes por separado |
+| Verificar texto de una norma provincial PBA | 5 (voftec) | normas.gba.gob.ar directo |
+| Buscar jurisprudencia CSJN | 7 (FalloBot, plan Pro) | sj.csjn.gov.ar directo |
+| Buscar jurisprudencia CABA / fueros nacionales | 2 (Psflores) o 6 (saij-mcp) | PJN directo |
+| Buscar jurisprudencia SAIJ (todas las instancias) | 6 (saij-mcp) | saij.gob.ar directo |
+| Buscar doctrina y dictámenes | 6 (saij-mcp) | saij.gob.ar directo |
+| Buscar jurisprudencia PBA (SCBA y cámaras) | 7 (FalloBot, plan Pro) | JUBA / SCBA directo |
+| Buscar jurisprudencia multifuente simultánea | 7 (FalloBot, plan Pro) | Fuentes por separado |
+| Navegar grafo legal (qué fallos citan qué normas) | 6 (saij-mcp) | Manual en saij.gob.ar |
+| Resolver cita textual directa en un escrito | 6 (saij-mcp) | saij.gob.ar directo |
+| Acceder a jurisprudencia histórica escaneada | 6 (saij-mcp, OCR integrado) | saij.gob.ar directo |
 | Análisis semántico / terminología | 3 (guidobonomini) | - |
 | Mejorar búsquedas jurisprudenciales | 4 (Tesauro SAIJ) | SAIJ directo |
 
@@ -207,8 +310,20 @@ Sí, pero con criterio. Las combinaciones útiles son:
   el texto con 1, luego buscar jurisprudencia con 2 usando la terminología
   correcta del texto oficial.
 
+- **1 + 5:** para práctica bonaerense. El 1 verifica normas nacionales en InfoLEG;
+  el 5 verifica normas provinciales PBA en normas.gba.gob.ar. Juntos cubren el
+  universo normativo completo para un escrito en fuero provincial.
+
+- **1 + 6:** flujo de investigación nacional completo. El 6 busca jurisprudencia,
+  doctrina y dictámenes en SAIJ y resuelve citas de normas; el 1 verifica el texto
+  oficial de esas normas en InfoLEG. El 6 no reemplaza al 1 porque accede a SAIJ,
+  que puede tener versiones menos actualizadas que InfoLEG.
+
 - **4 + 2:** el Tesauro (4) mejora la calidad de las búsquedas de jurisprudencia (2).
   Activar el 4 para normalizar los términos antes de la búsqueda.
+
+- **4 + 6:** igual que la combinación anterior pero con el conector 6 como motor
+  de búsqueda. El Tesauro normaliza la terminología; el 6 ejecuta la búsqueda en SAIJ.
 
 - **1 + 3:** el 3 analiza el contrato con glosario argentino; el 1 verifica
   las normas que el 3 cita. El 3 no reemplaza al 1 porque no accede a texto oficial.
@@ -237,7 +352,7 @@ hay discrepancia con cualquier conector.
 | Fuente | URL | Uso principal |
 |---|---|---|
 | InfoLEG | infoleg.gob.ar | Texto oficial de normas nacionales |
-| normas.gba.gob.ar | normas.gba.gob.ar | Texto oficial de normas provinciales PBA: leyes, decretos, decretos-ley, resoluciones, disposiciones, Constitución PBA, códigos provinciales (CPCCBA, CPPBA, CPL PBA, Código Fiscal, etc.). Sistema de Información Normativa y Documental del Gobierno de la Provincia de Buenos Aires. Sin API pública documentada: acceso por búsqueda web o URL directa por número de norma. |
+| normas.gba.gob.ar | normas.gba.gob.ar | Fallback del conector 5 (voftec). Texto oficial de normas provinciales PBA: leyes, decretos, decretos-ley, resoluciones, disposiciones, Constitución PBA, códigos provinciales (CPCCBA, CPPBA, CPL PBA, Código Fiscal, etc.). |
 | SAIJ | saij.gob.ar | Jurisprudencia, doctrina, legislación provincial |
 | PJN | pjn.gov.ar | Acordadas y jurisprudencia federal |
 | CNACAF | cnacaf.gov.ar | Jurisprudencia contencioso administrativo federal y alzada tributaria |
