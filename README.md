@@ -27,6 +27,8 @@ argentina/
   administrativo-caba-CLAUDE.md     # Perfil administrativo CABA (CCAyT - complementa al federal)
   administrativo-PBA-CLAUDE.md      # Perfil administrativo PBA (complementa al federal)
   administrativo-SALTA-CLAUDE.md    # Perfil administrativo Salta (complementa al federal)
+  especialidades/
+    medicina-legal-CLAUDE.md         # Pericia médica forense (penal / civil / seguridad social)
   civil-CLAUDE.md                   # Perfil derecho civil (CCCN)
   concursos-CLAUDE.md               # Perfil concursos y quiebras (LCQ)
   familia-CLAUDE.md                 # Perfil derecho de familia
@@ -389,6 +391,11 @@ Accedé directamente y pegá el texto en la sesión. Son la fuente de verdad ant
 **Penal:**
 - Analizar estrategia de defensa por etapa procesal y código aplicable (CPPN / CPPF / CPPCABA / CPPBA)
 - Evaluar procedencia de colaboración eficaz (Ley 27.304) y proceso de flagrancia (Ley 27.272)
+
+**Medicina legal y pericia médica forense:**
+- Redactar y analizar informes médico-legales periciales en los fueros penal, civil y de la seguridad social
+- Verificar estructura, completitud de puntos periciales y vacíos probatorios antes de presentar el informe
+- Identificar el régimen procesal aplicable (CPPN / CPPF / CPCCN / Ley 24.655) y alertar sobre plazos urgentes en causas con detenidos
 
 **Familia:**
 - Armar convenios reguladores de divorcio con todos los institutos del CCCN
