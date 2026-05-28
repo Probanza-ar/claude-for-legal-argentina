@@ -224,22 +224,26 @@ Alertas específicas:
 ### Registración del contrato
 
 **Obligaciones del empleador:**
-- Alta temprana en AFIP (antes del primer día de trabajo)
-- Libro especial del art. 52 LCT
+- Alta temprana en ARCA antes del primer día de trabajo (art. 52 LCT, texto según Ley 27.802, art. 20)
+- Registro unificado en ARCA: ya no se menciona "libro especial del art. 52" anterior a la reforma
 - Recibos de sueldo firmados por el trabajador
 
 **Consecuencias de la falta de registración o registración deficiente:**
 
-| Situación | Norma | Consecuencia |
-|---|---|---|
-| Relación no registrada | Art. 8 Ley 24.013 | 25% de las remuneraciones devengadas desde el inicio de la relación hasta la extinción |
-| Fecha de ingreso registrada posterior a la real | Art. 9 Ley 24.013 | 25% de las remuneraciones devengadas durante el período no registrado (desde el ingreso real hasta la fecha registrada) |
-| Remuneración registrada menor a la real | Art. 10 Ley 24.013 | 25% de la diferencia entre la remuneración real y la registrada, por cada mes del período en que rigió la diferencia |
-| Falta de registración total | Art. 1 Ley 25.323 | Duplicación de la indemnización del art. 245 LCT |
+> **ATENCIÓN - REFORMA LEY 27.742 (vigente desde 9/7/2024):** las multas de los arts. 8, 9, 10 y 15 de la Ley 24.013 y el agravante del art. 1 de la Ley 25.323 fueron **DEROGADOS**. La tabla siguiente refleja el régimen vigente según la fecha del acto.
 
-Nota: los arts. 8, 9 y 10 de la Ley 24.013 pueden concurrir en el mismo caso cuando se acumulan varios incumplimientos registrales (relación no registrada + fecha posterior + remuneración inferior). Verificar en cada caso qué agravantes aplican por separado.
+| Situación | Norma | Consecuencia hasta 8/7/2024 | Consecuencia desde 9/7/2024 |
+|---|---|---|---|
+| Relación no registrada | Art. 8 Ley 24.013 | 25% de las remuneraciones devengadas desde inicio hasta extinción | **DEROGADA** - sin multa |
+| Fecha de ingreso posterior a la real | Art. 9 Ley 24.013 | 25% de remuneraciones del período no registrado | **DEROGADA** - sin multa |
+| Remuneración registrada menor a la real | Art. 10 Ley 24.013 | 25% de la diferencia por cada mes en que rigió | **DEROGADA** - sin multa |
+| Falta de registración total | Art. 1 Ley 25.323 | Duplicación de la indemnización del art. 245 LCT | **DEROGADA** - sin duplicación |
 
-Condición para los agravantes de la Ley 24.013: el trabajador debe intimar fehacientemente al empleador antes de la extinción del contrato (art. 11 Ley 24.013). Sin intimación previa, no proceden los agravantes. Alertar siempre.
+Nota: los arts. 8, 9 y 10 de la Ley 24.013 pueden concurrir en el mismo caso para hechos anteriores al 9/7/2024. Para hechos posteriores a esa fecha no procede ninguno de estos agravantes. El art. 11 de la Ley 24.013 (intimación fehaciente como condición de procedencia) subsiste como fundamento de la intimación de registro, pero ya no activa multas.
+
+El mecanismo de denuncia ante ARCA por irregularidad registral vigente desde la Ley 27.802 es el art. 7 ter de la Ley 24.013 (denuncia directa del trabajador ante ARCA, desvinculada del telegrama al empleador).
+
+Condición para los agravantes de la Ley 24.013 (solo para hechos anteriores al 9/7/2024): el trabajador debe haber intimado fehacientemente al empleador antes de la extinción del contrato (art. 11 Ley 24.013). Sin intimación previa, no procedían los agravantes.
 
 ### Remuneración
 
@@ -297,9 +301,9 @@ Preguntas de diagnostico ante este supuesto:
 2. El empleador contrato sistema de capitalizacion?
 3. La cobertura iguala o supera el monto proyectado del art. 245 a la antiguedad estimada?
 
-**Agravante por falta de pago en término (art. 2 Ley 25.323):**
-- 50% adicional sobre indemnizaciones de los arts. 232, 233 y 245 (y art. 246 en el despido indirecto) si el empleador no pagó en tiempo y el trabajador debió iniciar acciones judiciales o administrativas
-- Condición: intimación fehaciente previa del trabajador
+**Agravante por falta de pago en término (art. 2 Ley 25.323) - DEROGADO por Ley 27.742 (vigente desde 9/7/2024):**
+- Para actos extintivos anteriores al 9/7/2024: 50% adicional sobre indemnizaciones de los arts. 232, 233 y 245 (y art. 246 en el despido indirecto) si el empleador no pagó en tiempo y el trabajador debió iniciar acciones judiciales o administrativas. Condición: intimación fehaciente previa del trabajador.
+- Para actos extintivos desde el 9/7/2024: **este agravante no existe**. No citar en ninguna intimación ni liquidación posterior a esa fecha.
 
 #### Extinción durante el período de prueba
 
@@ -448,9 +452,9 @@ Regla operativa: en toda liquidación final, verificar si se entregaron los cert
 
 **Plazo para acciones de la Ley 24.557 (LRT):** 2 años desde la determinación de la incapacidad o el fallecimiento.
 
-**Suspensión por interpelación fehaciente (art. 2541 CCCN):** suspende por seis meses, por una sola vez, desde la imposición postal. Criterio uniforme en todas las salas de la CNAT (aplicación supletoria vía art. 11 LCT, reemplazando al art. 3986 del Código de Vélez desde agosto de 2015). Solo el primer telegrama surte efecto suspensivo; los posteriores no lo renuevan. En PBA, verificar criterio de la SCBA.
+**Suspensión por SECLO (Ley 24.635):** desde la presentación ante el SECLO hasta 30 días después de la audiencia. En PBA: verificar si el mecanismo local suspende la prescripción.
 
-**Suspensión por SECLO (art. 7 Ley 24.635):** suspende siempre por seis meses completos aunque el trámite dure menos (Plenario CNAT N° 312). Causal autónoma y distinta del telegrama: el límite "por una sola vez" del art. 2541 CCCN no impide que el SECLO también suspenda el plazo. En PBA: verificar si el mecanismo local suspende la prescripción.
+**Suspensión por interpelación fehaciente (art. 2541 CCyCN):** suspende por un plazo de 6 meses. Su aplicación supletoria en materia laboral es discutida: algunas salas de la CNAT la admiten; otras aplican exclusivamente el régimen de la LCT. No asumir su eficacia sin verificar el criterio de la sala sorteada. En PBA, verificar criterio de la SCBA.
 
 Alertas específicas:
 - En créditos de tracto sucesivo (diferencias salariales mensuales): cada cuota prescribe en forma independiente desde que es exigible
@@ -548,13 +552,13 @@ Activar cuando el abogado indique expresamente que actúa por el empleador.
 
 Preguntas de diagnóstico adicionales:
 1. ¿El empleador está al día con los aportes y contribuciones?
-2. ¿Los contratos de trabajo están correctamente registrados?
-3. ¿Hay telegrama de intimación del trabajador? ¿En qué fecha llegó? ¿Ya intimó por Ley 24.013 o art. 2 Ley 25.323?
+2. ¿Los contratos de trabajo están correctamente registrados en ARCA?
+3. ¿Hay telegrama de intimación del trabajador? ¿En qué fecha llegó? ¿Ya intimó por Ley 24.013? Verificar si la fecha del acto extintivo es anterior o posterior al 9/7/2024 para determinar si los agravantes están o no vigentes.
 4. ¿Hay CCT aplicable? ¿Se cumple con el salario convencional?
 5. ¿Hay antecedentes disciplinarios del trabajador documentados?
 
 Estrategia de análisis desde el empleador:
-- Verificar primero si la registración es correcta: los agravantes de la Ley 24.013 y la Ley 25.323 son el riesgo principal
+- Verificar primero si la registración es correcta. Los agravantes de la Ley 24.013 (arts. 8, 9 y 10) y el art. 1 de la Ley 25.323 fueron derogados por la Ley 27.742 para actos extintivos desde el 9/7/2024. Para actos anteriores a esa fecha siguen siendo el riesgo principal: calcular su impacto antes de cualquier negociación.
 - Si hay despido con causa: revisar que la causa esté suficientemente expresada por escrito y que haya prueba que la respalde
 - Si hay reclamo de accidente: verificar que la ART fue notificada en tiempo y que se cumplió con el procedimiento de la Ley 27.348
 
@@ -570,13 +574,6 @@ Estrategia de análisis desde el empleador:
 - Prescripción: ante cualquier consulta donde el plazo pueda estar vencido o próximo a vencer, emitir antes de analizar el fondo:
   `[ALERTA PLAZO FATAL: art. 256 LCT - 2 años - desde que cada crédito fue exigible - vencimiento: calcular por rubro]`
   Verificar el plazo y la fecha de exigibilidad de cada crédito por separado. En diferencias salariales, prescripción crédito por crédito.
-
-- Suspensiones del plazo de prescripción - reglas de cómputo:
-  1. Telegrama de intimación (art. 2541 CCCN): suspende el plazo por seis meses, por única vez, desde la imposición postal. Al vencer, el plazo se reanuda desde donde estaba; los días consumidos antes no se pierden. El art. 257 LCT fija el tope del SECLO, no el del telegrama. Error frecuente: aplicar un año al telegrama por confundir ambos institutos.
-  2. SECLO (art. 7 Ley 24.635 + art. 257 LCT): suspende siempre por seis meses completos, aunque el trámite dure menos (Plenario CNAT N° 312; Moraglio, Sala V CNAT, SI N° 55476, 08/07/2024). El SECLO suspende, no interrumpe: al concluir, se reanuda el plazo aprovechando el tiempo anterior.
-  3. Verificación de superposición obligatoria: antes de sumar las suspensiones, verificar si los intervalos se solapan. Si telegrama y SECLO son sucesivos (solución de continuidad entre ambos), se computan en forma independiente. Si se superponen, se aplica regla de absorción: la extensión total es la unión de los intervalos, no la suma. Fundamento: Moraglio + doctrina de interpretación restrictiva de la prescripción. No existe fallo de sala que exprese la regla de absorción textualmente; se aplica por coherencia dogmática.
-  4. Verificar destinatarios en pluralidad de demandados: si hay responsabilidad solidaria (ej. art. 30 LCT), verificar que el telegrama fue dirigido a todos los demandados. La suspensión del art. 2541 CCCN opera solo respecto del destinatario.
-
 - No citar montos de prestaciones de la LRT, topes del art. 245, ni salarios convencionales sin marcador de verificación: se actualizan con frecuencia.
 - No citar tasa de interés sin identificar la sala sorteada y verificar su criterio vigente: no existe acta unificada desde el Acta CNAT 2788/2024. Cada sala aplica su propio criterio. Usar siempre: `[VERIFICAR TASA VIGENTE: sin acta unificada - criterio según sala sorteada - verificar jurisprudencia reciente de la sala]`
 - Ante cualquier cuestión sobre período de prueba, régimen de extinción o negociación colectiva: agregar alerta de verificación post-DNU 70/2023 y Ley 27.742.
