@@ -101,14 +101,13 @@ familia, penal, etc.]
 
 ### Laboral
 
-- LCT (Ley 20.744) [VERIFICAR VIGENCIA post-DNU 70/2023] y modificatorias - fuente principal
-- Ley 24.013 - empleo no registrado
-- Ley 25.323 - indemnizaciones agravadas
-- Ley 25.345 - art. 80 LCT, entrega de certificados
+- LCT (Ley 20.744) [VERIFICAR VIGENCIA post-DNU 70/2023 + Ley 27.742 + Ley 27.802] y modificatorias - fuente principal
+- Ley 24.013 - empleo no registrado. Arts. 8 a 17: DEROGADOS por Ley 27.742 desde el 9/7/2024. Art. 7 y 7 bis (texto según Ley 27.742): fundamento vigente de intimación de registro
+- Ley 25.323 - DEROGADA íntegramente por Ley 27.742 desde el 9/7/2024. No invocar para actos extintivos posteriores a esa fecha
+- Ley 25.345 - arts. 43 a 48 DEROGADOS por Ley 27.742 desde el 9/7/2024. Art. 80 LCT subsiste con texto reformado por Ley 27.802 (tres vías de cumplimiento)
 - Ley 26.773 - accidentes de trabajo
 - CCT aplicable según actividad del empleador: [COMPLETAR]
-- Fórmula indemnizatoria base: art. 245 LCT (mejor remuneración mensual normal
-  y habitual x antigüedad, sujeto a tope convencional)
+- Fórmula indemnizatoria base: art. 245 LCT - TRES regímenes según fecha del acto extintivo (ver `laboral-CLAUDE.md`)
 
 Perfil específico: ver `argentina/laboral-CLAUDE.md`
 
@@ -165,7 +164,7 @@ Perfil específico: ver `argentina/administrativo-CLAUDE.md`
   [VERIFICAR MONTO ACTUALIZADO: monto mínimo TFN - ley o decreto vigente]
 - Alzada: Cámara Nacional de Apelaciones en lo Contencioso Administrativo Federal (CNACAF)
 - Regla operativa: nunca citar alícuotas, mínimos ni montos tributarios sin
-  [VERIFICAR VIGENCIA] [VERIFICAR MONTO ACTUALIZADO: alícuotas y montos tributarios - RG AFIP vigente]. Los valores cambian por ley, decreto
+  [VERIFICAR VIGENCIA] [VERIFICAR MONTO ACTUALIZADO: alícuotas y montos tributarios - RG ARCA vigente]. Los valores cambian por ley, decreto
   o resolución general con frecuencia.
 
 Perfil específico: ver `argentina/tributario-CLAUDE.md`
@@ -417,20 +416,16 @@ El modelo de base es despido con indemnización obligatoria, no at-will.
 - Tope: tres veces el promedio de las remuneraciones previstas en el CCT aplicable
   [VERIFICAR CCT APLICABLE: actividad del empleador] [VERIFICAR MONTO ACTUALIZADO: tope art. 245 - CCT y promedio INDEC]
 
-**Agravantes a verificar en todo despido:**
-- Ley 24.013: arts. 8, 9, 10, 15 - empleo no registrado o deficientemente registrado
-  (requieren intimación fehaciente previa al despido)
-- Ley 25.323: art. 1 (duplicación art. 245 si no estaba registrado),
-  art. 2 (50% adicional si no se pagó en término y el trabajador inició acciones)
-- Art. 80 LCT / Ley 25.345: multa por falta de entrega de certificados
-  (tres mejores salarios mensuales; requiere intimación fehaciente)
+**Agravantes a verificar en todo despido — aplicables solo para actos extintivos anteriores al 9/7/2024:**
+- Ley 24.013: arts. 8, 9, 10, 15 - DEROGADOS por art. 99 Ley 27.742 desde el 9/7/2024. Para actos anteriores a esa fecha requerían intimación fehaciente previa al despido
+- Ley 25.323: art. 1 (duplicación art. 245) y art. 2 (50% adicional) - DEROGADOS íntegramente por art. 100 Ley 27.742 desde el 9/7/2024
+- Art. 80 LCT / Ley 25.345 arts. 43 a 48: multa DEROGADA por art. 99 Ley 27.742 desde el 9/7/2024. La obligación de entregar certificados subsiste bajo art. 80 LCT (texto Ley 27.802, tres vías de cumplimiento). Para actos anteriores al 9/7/2024 la multa era aplicable con intimación fehaciente previa
 - Ley 26.773: accidentes de trabajo, piso indemnizatorio, opción excluyente
 
 **Carga probatoria:** en el proceso laboral pesa sobre el empleador. La estrategia
 de prueba parte de esa base, no de la presunción neutra del derecho civil.
 
-Perfil completo y ejemplos de liquidación: ver `argentina/laboral-CLAUDE.md`
-y `argentina/ejemplos-laboral.md`.
+Perfil completo: ver `argentina/laboral-CLAUDE.md`.
 
 ### privacy-legal / habeas-data
 
@@ -498,12 +493,13 @@ Al inicio de cada consulta, el sistema identifica la rama del derecho y el tipo 
 
 | Perfil | Activar cuando la consulta involucra... |
 |---|---|
-| `laboral-CLAUDE.md` + `ejemplos-laboral.md` | contrato de trabajo, despido, liquidación, accidente laboral, sindicato, CCT |
+| `laboral-CLAUDE.md` | contrato de trabajo, despido, liquidación, accidente laboral, sindicato, CCT |
+| `laboral-CLAUDE.md` + `laboral/telegrama/telegramas-SKILL.md` | telegramas laborales, cartas documento, intimaciones, notificaciones fehacientes laborales |
 | `civil-CLAUDE.md` + `ejemplos-civil.md` | daños y perjuicios, responsabilidad civil, contratos civiles, prescripción civil |
 | `contratos-CLAUDE.md` + `red-flags-contratos.md` | revisión o redacción de contratos (NDA, servicios, compraventa, locación, SaaS, mutuo, agencia) |
 | `societario-CLAUDE.md` + `ejemplos-societario.md` | constitución de sociedades, M&A, due diligence, pactos de accionistas |
 | `administrativo-CLAUDE.md` | recurso administrativo, responsabilidad del Estado, contratación pública, empleo público |
-| `tributario-CLAUDE.md` | AFIP, TFN, IVA, Ganancias, ingresos brutos, régimen penal tributario |
+| `tributario-CLAUDE.md` | ARCA, TFN, IVA, Ganancias, ingresos brutos, régimen penal tributario |
 | `penal-CLAUDE.md` | imputado, procesado, defensa penal, querella, medidas cautelares penales |
 | `especialidades/medicina-legal-CLAUDE.md` | informe médico-legal pericial, lesiones, imputabilidad, incapacidad laboral, invalidez previsional, praxis médica, amparo de salud, pericia en fuero penal / civil / seguridad social |
 | `familia-CLAUDE.md` | divorcio, alimentos, cuidado personal, filiación, adopción, violencia familiar |
@@ -558,19 +554,31 @@ argentina/
   concursos-CLAUDE.md               # Perfil concursos y quiebras (LCQ)
   familia-CLAUDE.md                 # Perfil derecho de familia
   laboral-CLAUDE.md                 # Perfil derecho del trabajo (LCT)
+  laboral/
+    telegrama/
+      telegramas-SKILL.md           # Instrucciones operativas del skill de telegramas
+      tipos-de-telegrama.md         # Clasificación por grupo y notas críticas
+      reglas-normativas.md          # Reglas de validación normativa post-reforma
+      modelos/
+        bloque-01-registro.md
+        bloque-02-estabilidad-despido.md
+        bloque-03-salarios.md
+        bloque-04-ius-variandi.md
+        bloque-05-renuncia.md
+        bloque-06-vacaciones-licencias.md
+        bloque-07-salud-hostigamiento.md
+        bloque-08-construccion.md
   penal-CLAUDE.md                   # Perfil derecho penal
   societario-CLAUDE.md              # Perfil derecho societario (LGS)
   tributario-CLAUDE.md              # Perfil derecho tributario
   ejemplos-civil.md                 # Casos de daños y responsabilidad civil
-  ejemplos-laboral.md               # Casos de liquidación con checklist de rubros
   ejemplos-societario.md            # Due diligence y pactos de accionistas
   fuentes.md                        # Conectores MCP y fuentes primarias
   macos-automation.md               # Módulo opcional - automatización de escritorio macOS (Claude Code)
   legal.local.md.template           # Template de configuración local del estudio (por rama del derecho)
   evals/                            # Casos de control para verificar perfiles de área
     README.md                       # Formato estándar y áreas prioritarias
-    administrativo-caba-recursos-agotamiento-via/  # Recursos Dec 1510/97 + plazo art. 7 CCAyT
-    laboral-prescripcion-suspension-concurrente/   # Prescripción bienal art. 256 LCT + suspensiones concurrentes
+    administrativo-caba-recursos-agotamiento-via/
 ```
 
 ---
