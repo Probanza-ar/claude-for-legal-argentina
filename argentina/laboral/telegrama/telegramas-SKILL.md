@@ -118,9 +118,23 @@ Links a usar:
 - CCT: https://www.argentina.gob.ar/trabajo/relacioneslaborales/negociacioncolectiva
 - Normas sin vigencia confirmada: escribir "Ver alerta en este Bloque."
 
-Al pie del Bloque 2, incluir siempre:
+Al pie del Bloque 2, incluir siempre la advertencia estándar y, cuando corresponda, la alerta de transición.
 
-> ADVERTENCIA: Verificar vigencia antes del envío. La LCT y sus normas complementarias han sido modificadas por la Ley de Bases N° 27.742 (julio 2024) y la Ley de Modernización Laboral N° 27.802 (marzo 2026). Los links dirigen a fuentes oficiales. Algunas disposiciones tienen vigencia diferida. El abogado firmante asume responsabilidad profesional por el contenido y la vigencia de las normas citadas.
+**Advertencia estándar** (va siempre, sin excepción):
+
+> ADVERTENCIA: Verificar vigencia antes del envío. Los links dirigen a fuentes oficiales. El abogado firmante asume responsabilidad profesional por el contenido y la vigencia de las normas citadas.
+
+**Alerta de transición normativa** (agregar solo cuando el caso cae en alguna de estas situaciones):
+
+- El acto extintivo o hecho generador es anterior al 6/3/2026: agregar cuál de los tres regímenes del art. 245 aplica y por qué.
+- El caso involucra normas derogadas aplicables al tramo histórico (arts. 8, 9, 10, 15 Ley 24.013; arts. 1 y 2 Ley 25.323; art. 45 Ley 25.345): indicar expresamente que esas normas solo aplican al tramo anterior al 9/7/2024 y que el abogado debe verificar la fecha del acto antes del envío.
+- Alguna norma citada tiene vigencia diferida o fue objeto de medidas cautelares (ej. art. 104 bis LCT): señalarlo con precisión.
+
+Formato de la alerta de transición cuando corresponde:
+
+> ALERTA DE TRANSICIÓN: El hecho generador de este telegrama cae en el período [indicar tramo]. [Describir en una oración qué régimen aplica y qué norma o cómputo debe verificarse antes del envío.]
+
+Si el caso no encuadra en ninguna de las situaciones anteriores, no incluir la alerta de transición. La advertencia estándar es suficiente.
 
 ---
 
@@ -186,7 +200,7 @@ Antes de entregar el borrador final:
 - [ ] Ninguna norma derogada citada en el cuerpo del telegrama
 - [ ] Ningún remedio procesal inexistente prometido
 - [ ] Bloque 1 en texto plano sin formato enriquecido
-- [ ] Bloque 2 con tabla de referencias completa y advertencia al pie
+- [ ] Bloque 2 con tabla de referencias completa, advertencia estándar al pie y alerta de transición si el caso lo requiere
 - [ ] CCT indicado o marcador `[VERIFICAR CCT APLICABLE]` presente donde corresponde
 
 ---
