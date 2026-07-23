@@ -58,8 +58,8 @@ Cuando se demanda conjuntamente a una obra social o prepaga y al Estado nacional
 
 PAMI no tiene fuero único. La jurisdicción depende de la naturaleza del reclamo:
 
-- **Prestación médica pura** (cobertura de fármacos, internación, centro de día, acompañante terapéutico, prestaciones bajo Ley 24.901): fuero Civil y Comercial Federal.
-- **Cuestión previsional/pensionaria** (reconocimiento de derecho jubilatorio, incremento de pensión, compatibilización con otros ingresos): fuero Federal de la Seguridad Social.
+- **Prestación médica pura** (cobertura de fármacos, internación, centro de día, acompañante terapéutico, prestaciones bajo Ley 24.901; art. 2, Ley 19.032): fuero Civil y Comercial Federal.
+- **Cuestión previsional/pensionaria o de promoción y asistencia social** (reconocimiento de derecho jubilatorio, incremento de pensión, compatibilización con otros ingresos, subsidio habitacional o alimentario; art. 3, Ley 19.032): fuero Federal de la Seguridad Social. [VERIFICADO, jul. 2026, para el supuesto de subsidio habitacional/alimentario - ver nota más abajo]
 
 Ambas jurisdicciones coexisten. Si el cliente reclama cobertura de AT contra PAMI, la competencia es Civil y Comercial Federal. Si reclama aumento de la prestación pensionaria, es Federal de Seguridad Social.
 
@@ -67,7 +67,9 @@ En interior del país: verificar juzgado federal competente por territorio antes
 
 **Alerta práctica - juzgados federales multifuero del interior:** en muchos juzgados federales de provincia que ejercen competencia multifuero, se observa tendencia a acumular por atracción causas de PAMI independientemente de su naturaleza (médica o previsional). Antes de radicar en interior, verificar la jurisprudencia de la Cámara Federal de Apelaciones local sobre la bifurcación. No asumir que el criterio CABA rige sin ajustes en la jurisdicción del cliente.
 
-Fuente: CSJN, "INSSJP (PAMI) c/ Provincia de Buenos Aires" (2008); doctrina CFSS reiterada. [INSERTAR FALLO VERIFICADO: criterio bifurcado de competencia PAMI - prestación médica vs. cuestión previsional]
+*(jul. 2026: se eliminó de este lugar la cita "CSJN, INSSJP (PAMI) c/ Provincia de Buenos Aires, 2008", que no se localizó en dos rondas de búsqueda. La segunda ronda sí localizó un fallo real pero distinto, con las partes invertidas: CSJN, "Fisco de la Provincia de Buenos Aires c/ INSSJP", Fallos 346:1194 (2023) - no trata la bifurcación de competencia médica/previsional invocada aquí, por lo que tampoco se usa como reemplazo.)*
+
+*(jul. 2026: la bifurcación de competencia en sí SÍ quedó verificada, aunque con un eje distinto al enunciado más arriba - vía PJN Jurisprudencia, texto de sumario leído. CCF Sala I, "Bassignani, Georgina Marilina c/ INSSJP s/Amparos y Sumarísimos", Expte. 12769/2025, sentencia 18/11/2025 (sumario ID 91817), y CCF Sala 3, "Peralta, María Cristina c/ INSSJP s/Amparo de Salud", Expte. 13449/2025, sentencia 04/11/2025 (sumario ID 91726): en ambos casos la CCF declina competencia a favor del Juzgado Federal de la Seguridad Social por tratarse de un reclamo de subsidio habitacional y alimentario, que la Cámara encuadra como "promoción y asistencia social de los afiliados" (art. 3, Ley 19.032) y no como "prestación de salud" (art. 2, Ley 19.032). Es decir: la línea divisoria real que usa la Cámara no es exactamente "médica vs. previsional/pensionaria" como se afirmaba arriba, sino "prestación de salud (art. 2 Ley 19.032, CCF) vs. prestación de promoción y asistencia social o reajuste previsional (art. 3 Ley 19.032 y normas conexas, CFSS)". El principio de fondo (PAMI no tiene fuero único, hay que mirar la naturaleza del reclamo) queda confirmado; ajustar la explicación de "cuestión previsional/pensionaria" de la lista de arriba para incluir también los subsidios de promoción y asistencia social del art. 3 Ley 19.032.)*
 
 ### Regla general
 
@@ -85,7 +87,7 @@ La Ley 27.793 (promulgada el 21/09/2025) declaró la emergencia en discapacidad 
 
 Regla operativa: ante cualquier reclamo de PNC o de aranceles actualizados bajo esta ley, verificar si la emergencia fue prorrogada o vencida:
 ```
-[VERIFICAR VIGENCIA: Ley 27.793 - emergencia en discapacidad - estado al momento de la consulta]
+[VERIFICADO vía InfoLEG, jul. 2026: Ley 27.793 existe (sanción 22/09/2025, B.O. 35754). Reglamentada por Decreto 84/2026 (verificado, B.O. 35845). Vence 31/12/2026 - volver a verificar prórroga cerca de esa fecha]
 ```
 
 **Alerta de segundo semestre 2026 - riesgo de vencimiento sin prórroga:** la emergencia vence el 31/12/2026. A partir de julio 2026 y hasta esa fecha, todo argumento de demanda que dependa de la Ley 27.793 (blindaje presupuestario del 70% del haber mínimo, actualización de aranceles) debe activar este marcador de forma automática. Si al momento de la consulta no existe aún decreto de prórroga o nueva ley, alertar al usuario que la base normativa puede caer antes de que la sentencia quede firme. Evaluar si la argumentación puede sostenerse subsidiariamente sobre Ley 13.478 + Decreto 432/97 para no quedar huérfano de respaldo si la emergencia vence sin renovación.
@@ -96,35 +98,35 @@ Los aranceles del nomenclador se actualizan periódicamente por resolución de l
 
 Regla operativa:
 ```
-[VERIFICAR ARANCEL VIGENTE: prestación - resolución ANDIS en vigor]
+[VERIFICAR ARANCEL VIGENTE: prestación - resolución ANDIS en vigor. Nota jul. 2026: marcador dinámico por diseño - el arancel se actualiza por resolución periódica, no se resuelve una vez, hay que chequearlo en cada consulta]
 ```
 
 ### Denominación del organismo de aplicación
 
 El organismo nacional de aplicación en materia de discapacidad tuvo varias denominaciones: Subsecretaría de Discapacidad, Secretaría Nacional de Discapacidad, y finalmente ANDIS (Agencia Nacional de Discapacidad), creada por Decreto 698/2017 (BO 06/09/2017) como organismo descentralizado. Los decretos posteriores, incluyendo los de 2024, modificaron su dependencia jerárquica (órbita de Vicepresidencia, luego Jefatura de Gabinete de Ministros) y estructura interna, pero no su creación. En escritos, identificar siempre como ANDIS y verificar la dependencia jerárquica actual:
 ```
-[VERIFICAR VIGENCIA: denominación y estructura del organismo de aplicación - ANDIS]
+[VERIFICADO vía InfoLEG, jul. 2026: existe un Decreto DNU 698/2017 (ID InfoLEG 279040); no se leyó el texto completo para confirmar que su contenido sea exactamente la creación de ANDIS, pero la fecha y el carácter de DNU son consistentes con lo indicado. Verificar dependencia jerárquica actual al momento de cada escrito, dado que cambió varias veces]
 ```
 
 ### Ley 26.682 - Medicina prepaga y desregulación económica
 
 Los decretos de desregulación económica dictados entre 2024 y 2026 impactaron sobre la Ley 26.682 y las facultades de la Superintendencia de Servicios de Salud (SSS) en materia de cuotas y cobertura. No invocar topes tarifarios, autorizaciones o regulaciones de la SSS sin verificar que no hayan sido derogadas o liberadas por decreto posterior.
 ```
-[VERIFICAR VIGENCIA: impacto de decretos de desregulación económica sobre Ley 26.682 y facultades de la SSS respecto a cuotas y cobertura]
+[VERIFICADO vía InfoLEG, jul. 2026: Ley 26.682 existe (sanción 17/05/2011, B.O. 32151). No se identificó ni verificó el/los decreto/s de desregulación 2024-2026 mencionados de forma genérica aquí, por no contar con número/año concreto. Antes de invocar esta sección, identificar el decreto puntual y verificarlo en InfoLEG]
 ```
 
 **Doctrina CCF 2026 - cobertura blindada frente a desregulación comercial:** Las Salas I, II y III de la Cámara Civil y Comercial Federal han delimitado de forma uniforme que la liberación de cuotas derivada de los decretos de desregulación no afecta la obligación de cobertura al 100% de la Ley 24.901. El amparo de salud por prestaciones bajo esa ley sigue siendo procedente y viable con independencia del régimen tarifario aplicable a la prepaga. Argumento a usar: la obligación de cobertura integral de la Ley 24.901 tiene jerarquía superior a las normas desreguladoras de carácter comercial; no puede ser reducida por decreto.
 
 La Ley 26.657 (Derecho a la Protección de la Salud Mental) está en proceso de implementación progresiva y su reglamentación fue objeto de modificaciones. Antes de invocar plazos de internación o criterios de capacidad jurídica, verificar el estado de las normas reglamentarias:
 ```
-[VERIFICAR VIGENCIA: reglamentación Ley 26.657 - plazos e internación involuntaria]
+[VERIFICADO vía InfoLEG, jul. 2026: Ley 26.657 existe (sanción 03/12/2010, B.O. 32041, derogó la Ley 22.914). No se verificó el decreto reglamentario ni sus modificaciones puntuales - verificar antes de invocar plazos concretos de internación]
 ```
 
 ### Tasas de interés para reintegros de gastos
 
 Los fueros Federal y Ordinario aplican criterios divergentes y variables para el cómputo de intereses en acciones de repetición de gastos de salud. No utilizar tasas activas o pasivas de forma genérica sin verificar la doctrina plenaria o los precedentes actuales de la sala interviniente a la fecha de liquidación.
 ```
-[VERIFICAR VIGENCIA: tasa de interés aplicable para reintegros - fuero Civil y Comercial Federal u ordinario local - doctrina de sala actuante]
+[VERIFICAR VIGENCIA: tasa de interés aplicable para reintegros - fuero Civil y Comercial Federal u ordinario local - doctrina de sala actuante. Nota jul. 2026: marcador dinámico por diseño - depende de la sala interviniente y cambia con plenarios; no verificable de una vez para siempre]
 ```
 
 ### Requisitos socioeconómicos - Pensiones No Contributivas (PNC) · Decreto 843/2024
@@ -143,14 +145,14 @@ El Decreto 843/2024 (B.O. 23/09/2024) sustituyó completamente el Anexo I del De
 **Regla condicional obligatoria - denegatoria de PNC posterior a septiembre de 2024:** si el caso involucra una denegatoria de PNC dictada con posterioridad al B.O. 23/09/2024, el escrito DEBE incluir un acápite autónomo fundando la inconvencionalidad del art. 1 del Decreto 843/2024 con base en los arts. 12 y 28 de la CDPCD (jerarquía constitucional, Ley 27.044). Este acápite no es optativo ni depende del perfil específico del cliente: la regla del 66% es un parámetro rígido que, por su estructura, impide la evaluación individualizada de vulnerabilidad que exige la Convención. El planteo de inconvencionalidad preserva además la instancia recursiva para el caso de derrota en primera instancia.
 
 ```
-[VERIFICAR VIGENCIA: Decreto 843/2024 - estado de implementación y jurisprudencia actualizada sobre su constitucionalidad]
+[VERIFICADO vía InfoLEG, jul. 2026: Decreto 843/2024 existe (sanción 20/09/2024, B.O. 23/09/2024 N° 35510), modifica el Decreto 432/1997. No se verificó jurisprudencia sobre su constitucionalidad - el fallo "V., M.A. c/ Ministerio de Desarrollo Social" (CFALP Sala II, 2021) citado como base de esta regla en discapacidad-DOCTRINA.md NO pudo verificarse (Cámara Federal de La Plata fuera del alcance de los conectores disponibles)]
 ```
 
 ### Ley 10.592 PBA - texto actualizado
 
 La Ley 10.592 de la Provincia de Buenos Aires fue actualizada por la Ley 14.968. En escritos referidos a PBA, citar el texto actualizado y verificar si hubo nuevas modificaciones:
 ```
-[VERIFICAR VIGENCIA: Ley PBA 10.592 texto actualizado - Ley 14.968 y modificatorias]
+[VERIFICADO vía NormativaPBA, jul. 2026: Ley 10.592 vigente con modificaciones; Ley 14.968 vigente, la modifica. Portal registra además otras normas relacionadas posteriores (Leyes 15.505, 15.296, 15.018, 14.824, 13.762, entre otras) - revisar el texto consolidado en normas.gba.gob.ar antes de citar un artículo puntual]
 ```
 
 ---
@@ -174,36 +176,36 @@ En petitorios y fundamentos: cuando el argumento dependa de la jerarquía máxim
 
 ### Leyes nacionales fundamentales
 
-- **Ley 22.431 (Sistema de Protección Integral):** base del sistema. Modificada por Ley 25.689 (cupo laboral). Reglamentada por Decreto 312/10. [VERIFICAR VIGENCIA]
-- **Ley 24.901 (Prestaciones básicas):** cobertura de obras sociales y prepagas. Prestaciones médico-asistenciales, terapéuticas, educativas y sociales. Obligación de la obra social de cubrir el 100% sin límite de monto.
+- **Ley 22.431 (Sistema de Protección Integral):** base del sistema. Modificada por Ley 25.689 (cupo laboral). Reglamentada por Decreto 312/10. [VERIFICADO vía InfoLEG, jul. 2026: existe - confirmado por referencias cruzadas de las leyes modificatorias (24.314, 25.504, 25.635, 25.689) y por el Decreto 312/10 que la reglamenta]
+- **Ley 24.901 (Prestaciones básicas):** cobertura de obras sociales y prepagas. Prestaciones médico-asistenciales, terapéuticas, educativas y sociales. Obligación de la obra social de cubrir el 100% sin límite de monto. [VERIFICADO vía InfoLEG, jul. 2026: existe, sanción 05/12/1997, B.O. 28789]
   - Art. 17: maestra / acompañante terapéutico
   - Art. 22: prestaciones de rehabilitación
   - Art. 24: centros de día
   - Art. 33: sistema de prestaciones básicas para personas sin obra social (ANDIS / Estado)
-- **Ley 27.793 (Emergencia Nacional en Discapacidad):** vigente hasta 31/12/2026 (prorrogable). PNC por discapacidad (70% haber mínimo). Actualización de aranceles. [VERIFICAR VIGENCIA]
-- **Ley 27.711 (CUD sin vencimiento):** el Certificado Único de Discapacidad no tiene fecha de vencimiento. Gratuito. Válido en todo el territorio nacional.
-- **Ley 22.431 + Ley 25.504:** régimen original del CUD (reemplazado en lo pertinente por Ley 27.711 respecto del vencimiento). [VERIFICAR VIGENCIA de interacción]
-- **Ley 25.635 (Transporte gratuito):** libre tránsito en transporte colectivo terrestre con CUD. Eximición de peajes. [VERIFICAR VIGENCIA]
-- **Ley 24.314 (Accesibilidad y transporte):** accesibilidad para personas con movilidad reducida. [VERIFICAR VIGENCIA]
-- **Ley 26.522 (art. 66):** accesibilidad en servicios de comunicación audiovisual. Subtitulado, lengua de señas, audiodescripción.
-- **Ley 26.653:** accesibilidad de información en páginas web del Estado, empresas estatales y concesionarias de servicios públicos.
-- **Ley 26.858 (Perro guía o de asistencia):** derecho de acceso a espacios públicos y privados.
-- **Ley 26.657 (Salud mental):** protección del derecho a la salud mental. Internación involuntaria como último recurso. Interacción con CDPCD art. 12 (capacidad jurídica). [VERIFICAR VIGENCIA reglamentación]
-- **Ley 23.660 / 23.661 (Obras sociales y ANSSAL):** marco del sistema de obras sociales nacionales. Base para la obligación de cobertura bajo Ley 24.901.
-- **Ley 26.682 (Medicina prepaga):** obligación de las empresas de medicina prepaga de cubrir las prestaciones de la Ley 24.901 y el PMO.
+- **Ley 27.793 (Emergencia Nacional en Discapacidad):** vigente hasta 31/12/2026 (prorrogable). PNC por discapacidad (70% haber mínimo). Actualización de aranceles. [VERIFICADO vía InfoLEG, jul. 2026: existe, sanción 22/09/2025, B.O. 35754]
+- **Ley 27.711 (CUD sin vencimiento):** el Certificado Único de Discapacidad no tiene fecha de vencimiento. Gratuito. Válido en todo el territorio nacional. [VERIFICADO vía InfoLEG, jul. 2026: existe, sanción 02/05/2023, B.O. 35161]
+- **Ley 22.431 + Ley 25.504:** régimen original del CUD (reemplazado en lo pertinente por Ley 27.711 respecto del vencimiento). [VERIFICADO vía InfoLEG, jul. 2026: Ley 25.504 existe, sanción 13/12/2001, B.O. 29795, modifica Ley 22.431 sobre expedición del CUD]
+- **Ley 25.635 (Transporte gratuito):** libre tránsito en transporte colectivo terrestre con CUD. Eximición de peajes. [VERIFICADO vía InfoLEG, jul. 2026: existe, sanción 27/08/2002, B.O. 29970, modifica Ley 22.431]
+- **Ley 24.314 (Accesibilidad y transporte):** accesibilidad para personas con movilidad reducida. [VERIFICADO vía InfoLEG, jul. 2026: existe, sanción 12/04/1994, B.O. 27868, modifica Ley 22.431]
+- **Ley 26.522 (art. 66):** accesibilidad en servicios de comunicación audiovisual. Subtitulado, lengua de señas, audiodescripción. [VERIFICADO vía InfoLEG, jul. 2026: existe, sanción 10/10/2009, B.O. 31756]
+- **Ley 26.653:** accesibilidad de información en páginas web del Estado, empresas estatales y concesionarias de servicios públicos. [VERIFICADO vía InfoLEG, jul. 2026: existe, sanción 30/11/2010, B.O. 32038]
+- **Ley 26.858 (Perro guía o de asistencia):** derecho de acceso a espacios públicos y privados. [VERIFICADO vía InfoLEG, jul. 2026: existe, sanción 14/06/2013, B.O. 32661]
+- **Ley 26.657 (Salud mental):** protección del derecho a la salud mental. Internación involuntaria como último recurso. Interacción con CDPCD art. 12 (capacidad jurídica). [VERIFICADO vía InfoLEG, jul. 2026: la ley existe (sanción 03/12/2010, B.O. 32041); no se verificó el decreto reglamentario ni sus plazos específicos de internación]
+- **Ley 23.660 / 23.661 (Obras sociales y ANSSAL):** marco del sistema de obras sociales nacionales. Base para la obligación de cobertura bajo Ley 24.901. [VERIFICADO vía InfoLEG, jul. 2026: ambas existen, sanción 29/12/1988, B.O. 26555]
+- **Ley 26.682 (Medicina prepaga):** obligación de las empresas de medicina prepaga de cubrir las prestaciones de la Ley 24.901 y el PMO. [VERIFICADO vía InfoLEG, jul. 2026: existe, sanción 17/05/2011, B.O. 32151]
 
 ### Decretos reglamentarios clave
 
-- **Decreto 84/2026:** reglamentación de la Ley 27.793 (Emergencia Nacional en Discapacidad). [VERIFICAR VIGENCIA]
-- **Decreto 312/10:** reglamentario de la Ley 22.431. Certificación de discapacidad por el Ministerio de Salud / ANDIS.
-- **Decreto 432/97 (texto actualizado por Decreto 843/2024):** condiciones de incompatibilidad y requisitos para PNC por invalidez. El Decreto 843/2024 (B.O. 23/09/2024) sustituyó el Anexo I y derogó los Decretos 7/2023 y 566/2023. Para cualquier reclamo de PNC, operar exclusivamente con el texto vigente del 843/2024; no invocar los decretos derogados. [VERIFICAR VIGENCIA: Decreto 843/2024 - estado jurisprudencial y constitucionalidad]
-- **Decreto 1421/02:** reglamentación de la Ley Marco de Empleo Público Nacional (Ley 25.164). Cupo laboral en el sector público. [VERIFICAR VIGENCIA]
-- **Decreto 214/06:** homologa el Convenio Colectivo para la Administración Pública Nacional. [VERIFICAR VIGENCIA]
+- **Decreto 84/2026:** reglamentación de la Ley 27.793 (Emergencia Nacional en Discapacidad). [VERIFICADO vía InfoLEG, jul. 2026: existe, sanción 04/02/2026, B.O. 35845, aprueba la reglamentación de la Ley 27.793]
+- **Decreto 312/10:** reglamentario de la Ley 22.431. Certificación de discapacidad por el Ministerio de Salud / ANDIS. [VERIFICADO vía InfoLEG, jul. 2026: existe, sanción 08/03/2010, B.O. 31858]
+- **Decreto 432/97 (texto actualizado por Decreto 843/2024):** condiciones de incompatibilidad y requisitos para PNC por invalidez. El Decreto 843/2024 (B.O. 23/09/2024) sustituyó el Anexo I y derogó los Decretos 7/2023 y 566/2023. Para cualquier reclamo de PNC, operar exclusivamente con el texto vigente del 843/2024; no invocar los decretos derogados. [VERIFICADO vía InfoLEG, jul. 2026: Decreto 432/1997 existe (sanción 15/05/1997, B.O. 28650); Decreto 843/2024 existe (sanción 20/09/2024, B.O. 35510) y figura como modificatorio de aquel, junto con los Decretos 7/2023 y 566/2023 (ambos confirmados existentes). No se verificó jurisprudencia sobre la constitucionalidad del 843/2024]
+*(jul. 2026: se eliminó de este lugar la cita "Decreto 1421/02" como reglamentario del cupo laboral en el sector público - se buscó en InfoLEG por número y año en dos oportunidades y no se localizó ningún decreto con esos datos; se descarta como no verificable. El cupo laboral del 4% en el sector público se sostiene igual sobre su base normativa verificada: Ley 22.431 art. 8 y Ley 25.689.)*
+- **Decreto 214/06:** homologa el Convenio Colectivo para la Administración Pública Nacional. [VERIFICADO vía InfoLEG, jul. 2026: existe, sanción 01/03/2006, B.O. 30856]
 
 ### Normativa provincial y local
 
-- **Ley PBA 10.592 (texto actualizado Ley 14.968):** régimen jurídico básico e integral para personas con discapacidad en la Provincia de Buenos Aires. [VERIFICAR VIGENCIA]
-- **Ley CABA 962:** accesibilidad física para todos. Modifica el Código de Edificación de CABA (rampas, aceras, pendientes). [VERIFICAR VIGENCIA]
+- **Ley PBA 10.592 (texto actualizado Ley 14.968):** régimen jurídico básico e integral para personas con discapacidad en la Provincia de Buenos Aires. [VERIFICADO vía NormativaPBA, jul. 2026: Ley 10.592 vigente con modificaciones (promulgada 13/11/1987); Ley 14.968 vigente, la modifica (promulgada 23/10/2017)]
+- **Ley CABA 962:** accesibilidad física para todos. Modifica el Código de Edificación de CABA (rampas, aceras, pendientes). [VERIFICADO, jul. 2026 - fuente aportada por el usuario: ciudadyderechos.org.ar, texto completo relevado. Ley CABA N° 962, sancionada 05/12/2002, publicada BOCBA N° 1607 el 13/01/2003. Título real: "Código de la Edificación. Modificación" (art. 1: modifica el Código de la Edificación de CABA conforme Anexo I y gráficos); regula específicamente accesibilidad física]
 
 ### Cupo laboral
 
@@ -255,7 +257,7 @@ En amparos de salud / discapacidad la medida cautelar es casi siempre autónoma 
 
 Regla operativa: en amparos de salud en fuero Civil y Comercial Federal, verificar si aplica la Ley 26.854 cuando hay codemandado estatal:
 ```
-[VERIFICAR VIGENCIA: aplicación Ley 26.854 a medidas cautelares en amparo de salud - fuero Civil y Comercial Federal con codemandado estatal]
+[VERIFICADO vía InfoLEG, jul. 2026: Ley 26.854 existe, sanción 30/04/2013, B.O. 32629 (medidas cautelares en causas donde es parte el Estado Nacional). No se verificó jurisprudencia específica sobre su aplicación en amparos de salud con codemandado estatal - analizar caso por caso]
 ```
 
 ### Certificado Único de Discapacidad (CUD)
@@ -270,7 +272,7 @@ Regla operativa: en amparos de salud en fuero Civil y Comercial Federal, verific
 
 - Origen: art. 9 Ley 13.478 y Decreto 432/97. La Ley 27.793 elevó y blindó el piso del 70% del haber mínimo jubilatorio frente a decretos de desregulación.
 - Organismo otorgante: ANDIS.
-- Monto vigente: 70% del haber mínimo jubilatorio. [VERIFICAR VIGENCIA y monto actualizado al momento de la consulta]
+- Monto vigente: 70% del haber mínimo jubilatorio. [VERIFICADO vía InfoLEG, jul. 2026: el 70% surge del texto de la Ley 27.793 (existente, verificada más arriba). El monto en pesos del haber mínimo es dinámico - verificar el valor actualizado en ANSES al momento de la consulta]
 - Requisitos de incompatibilidad: verificar si el beneficiario tiene otro ingreso, jubilación o asignación que genere incompatibilidad.
 - Vía de impugnación ante denegatoria: recurso administrativo ante ANDIS; agotada la vía, acción contencioso administrativa federal.
 - **Atención - denegatoria posterior al 23/09/2024:** si la resolución fue dictada luego de la entrada en vigor del Decreto 843/2024, aplicar la regla condicional obligatoria de inconvencionalidad. Ver sección "Alerta normativa - Decreto 843/2024" y sección "Impugnación de denegatoria de PNC".
@@ -280,7 +282,7 @@ Regla operativa: en amparos de salud en fuero Civil y Comercial Federal, verific
 - Obligación del 4% en el sector público y servicios públicos (Ley 25.689 / Ley 22.431).
 - Para acreditar el incumplimiento: solicitar informe de planta de personal y porcentaje cubierto.
 - Alerta de diagnóstico prudente: las acciones judiciales individuales para exigir el nombramiento de una persona concreta tienen progreso acotado. El amparo colectivo o la acción de cumplimiento presentan mejores perspectivas que el reclamo individual, salvo que el beneficiario se encuentre en los primeros lugares de un orden de mérito de concurso ya aprobado y firme. Evaluar la estrategia antes de litigar.
-- En PBA: verificar régimen provincial específico. [VERIFICAR VIGENCIA: cupo laboral PBA]
+- En PBA: verificar régimen provincial específico. [NO VERIFICADO, jul. 2026 - no se identificó ni buscó una norma puntual de cupo laboral PBA en esta auditoría; identificar la norma provincial específica antes de invocarla]
 
 ### Salud mental - internación involuntaria
 
@@ -337,7 +339,7 @@ Perspectiva de éxito: baja si no hay (i) concurso previo donde el cliente fue d
 
 #### B. Cupo laboral en sector PÚBLICO NACIONAL (Administración Pública Nacional, empresas estatales)
 
-- **Régimen:** Ley 25.164 [VERIFICAR VIGENCIA] + Ley 19.549 [VERIFICAR VIGENCIA].
+- **Régimen:** Ley 25.164 [VERIFICADO vía InfoLEG, jul. 2026: existe, sanción 08/10/1999, B.O. 29247] + Ley 19.549 [VERIFICADO vía InfoLEG, jul. 2026: existe].
 - **Plazo:** 60 días hábiles desde la notificación de la resolución denegatoria, o desde el vencimiento del silencio administrativo (30 días hábiles sin respuesta = rechazo tácito), conforme art. 25 Ley 19.549.
 - **Fuero:** Contencioso Administrativo Federal. NO fuero laboral.
 - **Vía administrativa previa (OBLIGATORIA):**
@@ -354,7 +356,7 @@ Estrategia recomendada: (1) amparo colectivo promovido por ONG legitimada, pidie
 - **Plazo:** verificar la ley local (generalmente 60 días para recurso administrativo).
 - **Fuero:** CCAyT (CABA), fuero contencioso administrativo provincial (PBA y resto.
 - **Procedimiento:** agotamiento de vía administrativa previa análogo al sector público nacional.
-- En CABA: verificar si aplica procedimiento simplificado (Ley 189) o procedimiento ordinario contencioso-administrativo. [VERIFICAR VIGENCIA: cupo laboral PBA - régimen provincial específico]
+- En CABA: verificar si aplica procedimiento simplificado (Ley 189) o procedimiento ordinario contencioso-administrativo. [VERIFICADO, jul. 2026 - fuente aportada por el usuario: índice de Códigos CABA de InfoLEG (infoleg.gob.ar/?page_id=74), que remite a SAIJ e identifica la Ley 189 CABA como el Código Contencioso Administrativo y Tributario de la Ciudad, sanción 13/05/1999. Cupo laboral PBA sigue sin verificar - ver advertencia de la sección anterior]
 
 Fuente: Ley 25.164, Ley 19.549, jurisprudencia CSJN reiterada, doctrina CFSS y Contencioso Administrativo Federal.
 
@@ -393,6 +395,8 @@ Amparo federal (Ley 16.986) | 15 días hábiles (art. 2 inc. e Ley 16.986), pero
 Amparo local CABA (Ley 2145) | 45 días hábiles desde el acto lesivo | Misma excepción por omisión continua según TSJ CABA; alertar siempre y no confiar en la excepción sin verificar jurisprudencia actualizada
 Reclamo administrativo (PNC, CUD denegado) | Verificar plazos de silencio y recurso según LPA aplicable | LPA nacional o provincial según el caso
 
+*(jul. 2026: se leyó el texto completo de la Ley 2145 aportado por el usuario - Ley de Amparo CABA, BOCBA 2603, 12/01/2007. El articulado relevado no fija expresamente un plazo de "45 días hábiles desde el acto lesivo" para interponer la acción; el único plazo de caducidad que contiene la ley (art. 25) es de 30 días -60 en amparo colectivo- por inactividad procesal, que es un concepto distinto (caducidad de instancia, no plazo para demandar). [REVISIÓN NORMATIVA REQUERIDA: confirmar de dónde surge el plazo de 45 días hábiles - puede provenir de doctrina/jurisprudencia del TSJ CABA no relevada aquí, o ser un error; no invocarlo en un escrito sin verificar la fuente puntual primero.])*
+
 **Regla de freno - prohibición de extrapolación automática al fuero porteño:** la inaplicabilidad del plazo de caducidad en amparos de salud federal (doctrina CSJN, omisión continua) NO se traslada automáticamente al fuero contencioso-administrativo de CABA. El TSJ CABA aplica la exención por omisión continua bajo la Ley 2145, pero su jurisprudencia es propia y debe verificarse en cada caso. Antes de invocar en sede porteña la exención del plazo de caducidad con fundamento exclusivo en doctrina federal, el modelo debe alertar que la extrapolación no es automática y requerir verificación de jurisprudencia actualizada del TSJ CABA y de las Salas de la Cámara CCAyT. La omisión de este análisis puede derivar en rechazo liminar por caducidad sin posibilidad de subsanación.
 
 Regla operativa: alertar siempre sobre el plazo aplicable y la fecha de inicio del cómputo antes de analizar el fondo. En amparos locales CABA, el plazo de caducidad es una de las primeras verificaciones a realizar.
@@ -407,7 +411,7 @@ Regla operativa: alertar siempre sobre el plazo aplicable y la fecha de inicio d
 - El escrito debe: acreditar la condición del beneficiario (CUD o constancia de trámite), la prescripción médica, la intimación a la obra social o prepaga y su silencio o rechazo, y la urgencia.
 - Petitorio: medida cautelar de cobertura inmediata + sentencia definitiva de condena a cubrir la prestación + imposición de costas a la demandada.
 - Regla operativa: incluir siempre en el petitorio la imposición de costas a la obra social, prepaga o Estado demandado, fundada en la naturaleza alimentaria del reclamo y en la tutela del derecho a la salud como derecho humano. La persona con discapacidad no debe ver mermado su patrimonio para defender su salud.
-- **Regla operativa - reserva de inconstitucionalidad arancelaria:** al redactar la demanda, incluir siempre la reserva de inconstitucionalidad de toda normativa arancelaria local o tope de la Ley 27.423 [VERIFICAR VIGENCIA] que, en su aplicación al caso concreto, perfore el mínimo legal de honorarios o afecte la indemnidad del profesional que litiga en casos de vulnerabilidad. Fundamento: el derecho del abogado a una retribución digna no puede ser sacrificado por regulaciones tarifarias que no contemplen la complejidad técnica ni el impacto social del litigio en discapacidad. La reserva debe plantearse en la demanda y reiterarse en la regulación de honorarios; su omisión en primera instancia dificulta el planteo en alzada.
+- **Regla operativa - reserva de inconstitucionalidad arancelaria:** al redactar la demanda, incluir siempre la reserva de inconstitucionalidad de toda normativa arancelaria local o tope de la Ley 27.423 [VERIFICADO vía InfoLEG, jul. 2026: existe, sanción 22/12/2017, B.O. 22/12/2017, honorarios de abogados/procuradores] que, en su aplicación al caso concreto, perfore el mínimo legal de honorarios o afecte la indemnidad del profesional que litiga en casos de vulnerabilidad. Fundamento: el derecho del abogado a una retribución digna no puede ser sacrificado por regulaciones tarifarias que no contemplen la complejidad técnica ni el impacto social del litigio en discapacidad. La reserva debe plantearse en la demanda y reiterarse en la regulación de honorarios; su omisión en primera instancia dificulta el planteo en alzada.
 - Regla operativa procesal: incluir siempre la prueba documental completa como anexo; el fuero resuelve con celeridad cuando la urgencia está acreditada. Verificar aplicación de Ley 26.854 en materia cautelar si hay demandado estatal codemandado.
 
 ### Amparo - fuero contencioso administrativo (CABA o federal)
@@ -417,7 +421,7 @@ Regla operativa: alertar siempre sobre el plazo aplicable y la fecha de inicio d
 - Plazo de caducidad en CABA: 45 días hábiles desde el acto lesivo (Ley 2145). Alertar siempre.
 
 ```
-[VERIFICAR VIGENCIA: Ley CABA 2145 - plazo de caducidad del amparo local - estado actual]
+[VERIFICADO, jul. 2026 - fuente aportada por el usuario: Boletín Oficial CABA, boletinoficialpdf.buenosaires.gob.ar/util/imagen.php?idn=92847&idf=1, texto completo de la Ley A N° 2.145 (Ley de Amparo de la Ciudad Autónoma de Buenos Aires), publicada en BOCBA 2603 del 12/01/2007. El art. 25 fija la caducidad de instancia por inactividad en 30 días (60 en amparo colectivo) - no es un plazo de caducidad para interponer la acción; verificar si la referencia a "45 días hábiles desde el acto lesivo" corresponde a esta ley o a otra norma/doctrina antes de invocarla en un escrito, porque no surge del texto del articulado relevado]
 ```
 
 ### Proceso ordinario - obra social o prepaga
@@ -427,7 +431,7 @@ Regla operativa: alertar siempre sobre el plazo aplicable y la fecha de inicio d
 
 ### Proceso ordinario o contencioso contra el Estado nacional / ANDIS - vía administrativa previa
 
-- Antes de iniciar un proceso ordinario contra el Estado nacional o ANDIS, verificar el agotamiento de la vía administrativa (Ley 19.549 [VERIFICAR VIGENCIA]): recurso de reconsideración ante el mismo órgano y, si correspondiere, recurso jerárquico ante la autoridad superior. La omisión de este requisito puede derivar en excepción de falta de agotamiento de la vía.
+- Antes de iniciar un proceso ordinario contra el Estado nacional o ANDIS, verificar el agotamiento de la vía administrativa (Ley 19.549 [VERIFICADO vía InfoLEG, jul. 2026: existe]): recurso de reconsideración ante el mismo órgano y, si correspondiere, recurso jerárquico ante la autoridad superior. La omisión de este requisito puede derivar en excepción de falta de agotamiento de la vía.
 - Excepción para el amparo: la jurisprudencia exime del agotamiento previo cuando el tránsito por la vía administrativa tornaría ilusorio el derecho a la salud o generaría un daño irreversible. En esos casos, la urgencia y el peligro en la demora justifican acudir directamente al amparo sin agotar sede administrativa.
 - Regla operativa: ante cualquier reclamo contra el Estado o ANDIS, definir primero si la vía es el amparo (urgencia + omisión continua) o el proceso ordinario (reclamo patrimonial sin urgencia). La elección determina si el agotamiento previo es exigible.
 
@@ -443,10 +447,10 @@ Regla operativa: alertar siempre sobre el plazo aplicable y la fecha de inicio d
 - Prescripción: no asumir plazo único; identificar el tipo de reclamo y aplicar la tabla de prescripción y caducidad de este perfil. En amparos locales CABA, verificar el plazo de caducidad de 45 días hábiles como primera verificación.
 - Tasa de justicia y BLSG: en amparos de salud / discapacidad, verificar si el fuero aplica exención de tasa de justicia para personas con discapacidad o en situación de vulnerabilidad antes de presentar el escrito inicial. Si el proceso no es un amparo sino un ordinario (ej. daños y perjuicios por falta de accesibilidad), la exención de tasa no cubre automáticamente los gastos de peritos ni las costas en caso de resultado adverso; evaluar y proponer la promoción del Beneficio de Litigar sin Gastos (BLSG) en paralelo con la demanda principal.
 ```
-[VERIFICAR JURISPRUDENCIA: exención de tasa de justicia en amparos de salud/discapacidad - fuero Civil y Comercial Federal y fuero actuante]
+[VERIFICADO vía PJN Jurisprudencia, jul. 2026 - texto de sumario leído. La exención real y consolidada que existe en la Cámara Civil y Comercial Federal corre por el art. 39 de la Ley 23.661 (agentes del seguro de salud), y beneficia a la OBRA SOCIAL cuando actúa como demandada en el amparo, no automáticamente al actor/paciente con discapacidad: CCF, "Tagliaferro, Graciela Noemí c/ OSDEPYM s/Sumarísimo de Salud", Expte. 7253/2021, sumario ID 70268 (16/04/2024); CCF Sala 3, "Tosar, María c/ Obra Social de la Unión del Personal Civil de la Nación s/Amparo de Salud", Expte. 22817/2019, sumario ID 62097 (21/09/2023). Ambos remiten al leading case CSJN "A.P.S. c/ Medicus SA s/Recurso de Hecho", 04/05/2000, Fallos 323:973, que fijó que la redacción genérica del art. 39 Ley 23.661 comprende la tasa judicial. Para que el ACTOR con discapacidad (no la obra social demandada) quede exento de la tasa, la vía verificada sigue siendo el Beneficio de Litigar sin Gastos, no una exención automática por discapacidad.]
 ```
 - Costas: en todo amparo de salud o medida cautelar que resulte en la concesión de la prestación, incluir siempre en el petitorio la imposición de costas a la demandada (obra social, prepaga o Estado). Ver también regla de costas en sección "Amparo de salud - fuero Civil y Comercial Federal".
-- **AT escolar y maestra integradora (regla antievasión de cobertura):** ante cualquier reclamo de AT en ámbito escolar o de maestra de apoyo a la integración, invocar siempre el art. 24 CDPCD (Educación Inclusiva, jerarquía constitucional Ley 27.044) en concordancia con el art. 17 Ley 24.901. Esta doble base normativa neutraliza la defensa estándar de las obras sociales y prepagas que califican la prestación como "educativa" para derivar la responsabilidad al Ministerio de Educación. La jurisprudencia CCF (Sala I, 2021, *M., R. A. c/ OSDE*) es clara: si el equipo tratante justifica que el AT en el aula es indispensable para la rehabilitación neurocognitiva y la integración psicosocial, la cobertura es médica, no educativa, y es obligatoria bajo Ley 24.901 art. 17.
+- **AT escolar y maestra integradora (regla antievasión de cobertura):** ante cualquier reclamo de AT en ámbito escolar o de maestra de apoyo a la integración, invocar siempre el art. 24 CDPCD (Educación Inclusiva, jerarquía constitucional Ley 27.044) en concordancia con el art. 17 Ley 24.901. Esta doble base normativa neutraliza la defensa estándar de las obras sociales y prepagas que califican la prestación como "educativa" para derivar la responsabilidad al Ministerio de Educación: si el equipo tratante justifica que el AT en el aula es indispensable para la rehabilitación neurocognitiva y la integración psicosocial, la cobertura es médica, no educativa, y es obligatoria bajo Ley 24.901 art. 17. *(jul. 2026: se retiró de este párrafo la cita "M., R.A. c/ OSDE, CCF Sala I 2021" que la respaldaba - no se localizó en PJN Jurisprudencia en dos rondas de búsqueda y se elimina por no poder descartarse que sea inventada. El principio normativo, art. 24 CDPCD + art. 17 Ley 24.901, ambos verificados, se sostiene igual sin esa cita.)*
 - Todo escrito en discapacidad cierra con "Estado del escrito" estándar más este bloque analítico obligatorio:
   1. Fuero y competencia determinada.
   2. Condición del beneficiario frente al CUD (Vigente / En trámite / Ausente).
@@ -465,6 +469,9 @@ Regla operativa: alertar siempre sobre el plazo aplicable y la fecha de inicio d
 *Correcciones aplicadas v3: (9) regla CUD/ANDIS demoras; (10) regla condicional 843/2024; (11) freno extrapolación caducidad CABA; (12) reserva inconstitucionalidad arancelaria.*
 *Correcciones aplicadas v4 (auditoría interna): (A) regla condicional 843/2024 cruzada a sección "Impugnación PNC"; (B) tabla prescripción reordenada - Regla de freno fuera de la tabla; (C) reenvío a regla 843/2024 en sección PNC institutos frecuentes; (D) AFIP corregido a ARCA (ex AFIP); (E) umbral erróneo "50 empleados" eliminado de cupo privado; (F) "transporte" acotado a jurisdicción local CABA en tabla de fueros.*
 *Correcciones aplicadas v5 (auditoría externa junio 2026): (N) alerta práctica sobre juzgados federales multifuero del interior - tendencia de acumulación por atracción en causas PAMI; (O) nota operativa de segundo semestre 2026 sobre riesgo de vencimiento de Ley 27.793 sin prórroga y estrategia de respaldo subsidiario; (P) instrucción operativa explícita para el asistente: requerir historia clínica detallada antes de redactar cualquier amparo/cautelar de AT.*
+*Correcciones aplicadas v6 (auditoría de verificación, julio 2026): se verificó cada norma marcada con [VERIFICAR VIGENCIA] contra InfoLEG (nacional) o NormativaPBA (provincial). Resultado: prácticamente toda la normativa nacional y provincial citada existe y fue confirmada (Ley 22.431, 24.901, 27.793, 27.711, 25.504, 25.635, 24.314, 26.522, 26.653, 26.858, 26.657, 23.660/661, 26.682, 27.423, 25.164, 19.549, 26.854, Decretos 84/2026, 312/10, 432/97, 843/2024, 214/06, Ley PBA 10.592/14.968). 
+*Correcciones aplicadas v7 (segunda auditoría, julio 2026 - (1) Ley CABA 189 -> VERIFICADA vía índice de InfoLEG (page_id=74) con remisión a SAIJ: es el Código Contencioso Administrativo y Tributario de la Ciudad, sanción 13/05/1999. (2) Ley CABA 2145 -> VERIFICADA vía Boletín Oficial CABA (PDF completo, BOCBA 2603, 12/01/2007): es la Ley de Amparo de la Ciudad. Al leer el articulado se detectó una inconsistencia: el archivo afirmaba un plazo de caducidad de "45 días hábiles desde el acto lesivo" para amparos locales, pero el texto de la Ley 2145 no contiene ese plazo - su único plazo de caducidad (art. 25) es de 30/60 días por inactividad procesal (instituto distinto). Se dejó marcador [REVISIÓN NORMATIVA REQUERIDA] en la tabla de prescripción y caducidad señalando que el origen del plazo de 45 días debe confirmarse (posible doctrina/jurisprudencia TSJ CABA no relevada) antes de volver a invocarlo en un escrito.*
+*Correcciones aplicadas v9 (julio 2026, cierre de marcador [VERIFICAR JURISPRUDENCIA] pendiente): se buscó y se encontró jurisprudencia sobre exención de tasa de justicia en salud, y se precisó la doctrina de competencia bifurcada PAMI. (1) Tasa de justicia: CCF, "Tagliaferro c/ OSDEPYM", Expte. 7253/2021 (16/04/2024) y CCF Sala 3, "Tosar c/ Obra Social Unión Personal Civil de la Nación", Expte. 22817/2019 (21/09/2023), ambos remitiendo al leading case CSJN "A.P.S. c/ Medicus SA", 04/05/2000, Fallos 323:973: la exención del art. 39 Ley 23.661 beneficia a la obra social demandada, no automáticamente al actor con discapacidad. (2) Competencia PAMI: confirmado con CCF Sala I "Bassignani c/ INSSJP" (18/11/2025) y CCF Sala 3 "Peralta c/ INSSJP" (04/11/2025) que la línea divisoria real de la Cámara es "prestación de salud" (art. 2 Ley 19.032) vs. "promoción y asistencia social/previsional" (art. 3 Ley 19.032), más amplia que el "médica vs. jubilatoria" que traía el archivo.*
 *Normativa base: CDPCD (Ley 26.378 / Ley 27.044), Ley 22.431, Ley 24.901, Ley 27.793, Ley 27.711, Ley 26.657, Ley 26.682, Ley 25.164, Ley 19.549*
 *Nota: verificar aranceles ANDIS y estado de la emergencia (Ley 27.793) al momento de cada consulta*
 *Autor: Dr. Cristian Aboitiz · [@abogadoaboitiz](https://x.com/abogadoaboitiz)*

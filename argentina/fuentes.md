@@ -449,7 +449,8 @@ training. Si el conector no trae el dato, va un marcador, no una afirmación.
 | Jurisprudencia tributaria | `tfn__buscar_resoluciones_tfn` | íd. |
 | Jurisprudencia / expedientes CABA | jurisprudencia: `saij__` (parcial); expediente: `juscaba__buscar_causas` | íd. |
 | Doctrina | `saij__search_doctrina`; doctrina administrativa federal: `ptn__buscar_dictamenes` | nota de fuente faltante |
-| Vigencia del precedente citado | Sin conector: verificación manual | `[VERIFICAR PRECEDENTE: ...]` |
+| Vigencia del precedente (criterio no superado) | Sin conector: verificación manual | `[VERIFICAR PRECEDENTE: ...]` |
+| Firmeza del propio fallo (¿recurrido?) | Estado procesal vía expediente: `juscaba__`, `pjn__` (HITL), `mev__`, si la causa es ubicable | `[VERIFICAR PRECEDENTE: ...]` si no se ubica |
 | Petitorio | Perfil de práctica, no conectores | - |
 
 El detalle de cada tool y sus límites está arriba, en "Conectores del hub".
@@ -467,15 +468,37 @@ confirman la publicación original y las modificatorias individuales, pero no
 consolidan el texto. Recordar la limitación de `normativapba__verificar_vigencia`
 (replica el estado del portal, con sus errores): primer filtro, no definitivo.
 
-**Vigencia del PRECEDENTE.** Ningún conector del hub te dice si un fallo sigue
-siendo buen derecho. Los endpoints de citados/citantes no están implementados. El
-conector te trae el precedente, pero no te avisa si fue dejado sin efecto o
-superado por uno posterior. Esa verificación es manual y obligatoria antes de
-fundar una pretensión en un fallo. Marcar en sesión cuando no se pudo confirmar:
+**Vigencia del PRECEDENTE.** Los conectores de JURISPRUDENCIA (JUBA, SAIJ, CSJN,
+PJN Jurisprudencia) no te dicen si un fallo sigue siendo buen derecho: traen el
+precedente, pero no avisan si fue dejado sin efecto o superado. Los endpoints de
+citados/citantes no están implementados. Esa verificación -de que el criterio no
+fue superado por uno posterior- es manual y obligatoria antes de fundar una
+pretensión en un fallo. Marcar en sesión cuando no se pudo confirmar:
 
 ```
 [VERIFICAR PRECEDENTE: "carátula" o Fallos T:P - confirmar que no fue dejado sin efecto ni superado antes de citar]
 ```
+
+**Firmeza del propio fallo, vía expediente (sí se puede).** Distinto del criterio:
+si lo que se quiere saber es si ESE fallo quedó firme o fue recurrido, los
+conectores de EXPEDIENTES lo resuelven cuando la causa está en su portal, leyendo
+el estado procesal y los expedientes vinculados (apelación, recurso extraordinario
+o de inconstitucionalidad, queja):
+
+- CABA: `juscaba__buscar_causas` por carátula/número/CUIJ. Los legajos vinculados
+  muestran los recursos. Ej. real (jul-2026): "G., M. J. sobre 71 ter" tenía un
+  recurso de inconstitucionalidad denegado y una queja ante el TSJ CABA -> NO firme.
+- Nación/federal: `pjn__buscar_expediente_por_parte` (HITL, solo por demandado con
+  nombre real) -> `pjn__obtener_actuaciones`. Si tras la sentencia de cámara los
+  autos volvieron al juzgado de origen y no hay recurso extraordinario ni queja
+  registrados, el fallo aparece firme (para certeza plena, descartar un REF/queja
+  tramitado en expediente separado ante la CSJN). Ej. real: "Centro de Empleados de
+  Comercio c/ Facebook" (FRE 4364/2021), devuelto a origen e inactivo -> firme.
+- PBA: `mev__` (con login) para expedientes de la Provincia.
+
+Límites: solo si la causa es ubicable. Partes anonimizadas no se buscan por nombre;
+el PJN público solo admite demandado. Cuando no se puede ubicar, rige el
+[VERIFICAR PRECEDENTE] manual.
 
 ---
 

@@ -303,7 +303,7 @@ Ejemplo:
 
 ### B5 · VERIFICAR PRECEDENTE
 
-**Uso:** cuando se cita un fallo cuyo holding está verificado pero no se pudo confirmar que siga vigente como precedente (que no haya sido dejado sin efecto, revocado o superado por jurisprudencia posterior). Ningún conector del hub lo resuelve: los endpoints de citados/citantes no están implementados, de modo que la verificación es manual. Distinto de B1 (no hay fallo verificado) y de B4 (holding verificado, falta la cita formal de colección).
+**Uso:** cuando se cita un fallo cuyo holding está verificado pero no se pudo confirmar que siga vigente como precedente (que no haya sido dejado sin efecto, revocado o superado por jurisprudencia posterior). Dos planos distintos: (a) el CRITERIO (que no fue superado por jurisprudencia posterior) ningún conector lo resuelve -los endpoints de citados/citantes no están implementados-, de modo que es verificación manual; (b) la FIRMEZA del propio fallo (si fue recurrido o quedó firme) sí se verifica con los conectores de EXPEDIENTES cuando la causa es ubicable (`juscaba__`, `pjn__` con HITL, `mev__`): se lee el estado procesal y los recursos vinculados (ver `fuentes.md`, "Verificación de vigencia - dos cosas distintas"). El marcador se mantiene cuando la causa no se puede ubicar (partes anonimizadas, o PJN público solo por demandado) o cuando la firmeza no se pudo confirmar. Distinto de B1 (no hay fallo verificado) y de B4 (holding verificado, falta la cita formal de colección).
 
 **Sintaxis:**
 ```

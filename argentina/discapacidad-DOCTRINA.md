@@ -41,7 +41,7 @@
 - La obra social no puede imponer copagos ni topes de monto bajo Ley 24.901.
 - Si no hay prestador en cartilla, la obra social debe autorizar el prestador elegido por el beneficiario; la negativa sin justificación clínica es resistible.
 - Costas a la demandada: regla consolidada. La naturaleza alimentaria del reclamo + tutela del derecho a la salud como derecho humano justifica que la persona con discapacidad no vea mermado su patrimonio.
-- **Reserva de inconstitucionalidad arancelaria en costas:** la jurisprudencia del fuero admite -y la buena práctica exige- plantear en la demanda la reserva de inconstitucionalidad de toda normativa arancelaria local o tope de la Ley 27.423 [VERIFICAR VIGENCIA] que en su aplicación concreta perfore el mínimo legal de honorarios del abogado que litiga en casos de vulnerabilidad. La reserva debe reiterarse al momento de la regulación de honorarios; su omisión en primera instancia dificulta el planteo en alzada.
+- **Reserva de inconstitucionalidad arancelaria en costas:** la jurisprudencia del fuero admite -y la buena práctica exige- plantear en la demanda la reserva de inconstitucionalidad de toda normativa arancelaria local o tope de la Ley 27.423 [VERIFICADO vía InfoLEG, jul. 2026: existe] que en su aplicación concreta perfore el mínimo legal de honorarios del abogado que litiga en casos de vulnerabilidad. La reserva debe reiterarse al momento de la regulación de honorarios; su omisión en primera instancia dificulta el planteo en alzada.
 
 ---
 
@@ -49,41 +49,30 @@
 
 #### Amparo de urgencia - Cobertura inmediata
 
-**[CÁMARA NACIONAL DE APELACIONES EN LO CIVIL Y COMERCIAL FEDERAL, SALA III - 2020]**
-Carátula: *G., I. A. c/ OSDE s/ Amparo de Salud*
-Síntesis: Se condena a la empresa de medicina prepaga a otorgar la cobertura integral en una institución especializada, evaluando las necesidades dinámicas del paciente con discapacidad, revirtiendo la negativa basada en cuestiones reglamentarias internas.
-Doctrina: La obra social/prepaga no puede eximirse de su obligación de cobertura integral (100%) establecida por la Ley 24.901 alegando limitaciones de cartilla o topes cuando la patología del beneficiario demanda atención inmediata. Se reafirma la presunción del peligro en la demora ante la sola interrupción de tratamientos de salud críticos.
-Link SAIJ/PJN: [PJN Expte. 6802/2019](http://scw.pjn.gov.ar/scw/home.seam)
+*(jul. 2026: se eliminó de este lugar una cita "G., I.A. c/ OSDE, CCF Sala III 2020, Expte. 6802/2019" que no pudo verificarse - el expediente no existe en PJN Jurisprudencia. No hay, por ahora, un fallo de reemplazo verificado para este punto específico; la doctrina general está respaldada por Cambiaso Peres de Nealon, CSJN 2007, más abajo.)*
 
 ---
 
 #### Medida cautelar autónoma - Tracto sucesivo
 
-**[CÁMARA NACIONAL DE APELACIONES EN LO CIVIL Y COMERCIAL FEDERAL, SALA DE FERIA A - 2024]**
-Carátula: *Pedroche, Norma Herminia c/ OSDE s/ Amparo de Salud*
-Síntesis: En plena feria judicial, se hace lugar a la medida cautelar ordenando la cobertura al 100% de la internación en un hogar permanente con centro de día, tras la acreditación de total dependencia para actividades de la vida diaria y silencio de la prepaga frente a la intimación previa.
-Doctrina: El silencio administrativo de la prepaga frente a una necesidad habitacional-sanitaria de urgencia con prescripción médica y CUD habilita el despacho expedito de la cautelar. La urgencia justifica la intervención en feria, materializando el tracto sucesivo de la cobertura prestacional como insoslayable.
-Link SAIJ/PJN: [PJN Expte. 98/2024](http://scw.pjn.gov.ar/scw/home.seam)
+*(jul. 2026: se eliminó de este lugar una cita "Pedroche, Norma Herminia c/ OSDE, CCF Sala de Feria A 2024, Expte. 98/2024" que no pudo verificarse - el expediente no existe en PJN Jurisprudencia. No hay, por ahora, un fallo de reemplazo verificado para este punto específico.)*
 
 ---
 
 #### Rechazo de negativa de obra social por argumento de "prestación no contemplada en PMO"
 
 **[CORTE SUPREMA DE JUSTICIA DE LA NACIÓN - 2007]**
-Carátula: *Cambiaso Pereson, Víctor Hugo c/ CEMIC s/ Amparo*
+Carátula: *Cambiaso Peres de Nealon, Celia María Ana y otros c/ Centro de Educación Médica e Investigaciones Médicas s/ Amparo*
 Síntesis: La CSJN establece el estándar jurisprudencial definitivo de que el Programa Médico Obligatorio (PMO) es un "piso prestacional" y no un techo cerrado, obligando a CEMIC a brindar cobertura fuera del catálogo estricto.
 Doctrina: El PMO fue concebido como un régimen mínimo de prestaciones que las obras sociales deben garantizar. Invocar exclusiones del PMO para negar tratamientos prescriptos a personas con discapacidad vulnera el derecho a la salud integral consagrado en los tratados internacionales y la Ley 24.901.
 Link SAIJ/PJN: [CSJN Fallos: 330:3725](https://sj.csjn.gov.ar/sj/radicacion.do?parametro=fallos)
+**Verificación (jul. 2026):** [VERIFICADO - CSJN, 28/08/2007] la carátula que traía el archivo ("Cambiaso Pereson, Víctor Hugo c/ CEMIC") era incorrecta; la real es la consignada arriba. Cita y fecha correctas. Sumario CSJN leído (no el fallo íntegro): la Ley 24.901, por remisión de la Ley 24.754, se aplica a empresas de medicina prepaga. Doctrina del resumen correcta.
 
 ---
 
 ### Fallos de referencia - Fuero Contencioso Administrativo Federal
 
-**[CÁMARA NACIONAL DE APELACIONES EN LO CONTENCIOSO ADMINISTRATIVO FEDERAL, SALA II - 2018]**
-Carátula: *A. Civil para la Integración de Personas con Discapacidad c/ EN - Ministerio de Salud - ANDIS s/ Amparo Ley 16.986*
-Síntesis: Amparo dirigido a que el Estado Nacional (a través de ANDIS) restablezca la cobertura de subsidios para instituciones prestadoras de servicios a personas con discapacidad, ante atrasos en la cadena de pagos que amenazaban la continuidad prestacional.
-Doctrina: El Estado es garante subsidiario e indelegable del sistema de prestaciones básicas (Ley 24.901). Las demoras burocráticas o presupuestarias de ANDIS no son oponibles al colectivo de personas con discapacidad, dado que alteran la continuidad de un derecho alimentario.
-Link SAIJ/PJN: [PJN Consulta CAF](http://scw.pjn.gov.ar/scw/home.seam)
+*(jul. 2026: se eliminó de este lugar una cita "A. Civil para la Integración de Personas con Discapacidad c/ EN-ANDIS, CNACAF Sala II 2018" que no pudo verificarse pese a dos rondas de búsqueda por carátula y por texto en PJN Jurisprudencia. No hay, por ahora, un fallo de reemplazo verificado para este punto específico. El principio de fondo -el Estado como garante subsidiario del sistema de prestaciones básicas- surge directamente de la Ley 24.901, sin necesidad de esta cita.)*
 
 ---
 
@@ -104,33 +93,22 @@ Link SAIJ/PJN: [PJN Consulta CAF](http://scw.pjn.gov.ar/scw/home.seam)
 
 **Jurisprudencia reciente:** Tendencia a admitir AT para población infantil con diagnóstico de TEA, TDAH, retraso madurativo, cuando hay plan terapéutico documentado. Mayor resistencia en población adulta; exige dictamen psicopedagógico o psicológico más sólido.
 
-**AT en ámbito escolar y maestra integradora - regla antievasión:** defensa típica de obras sociales y prepagas ante reclamos de AT escolar o maestra de apoyo a la integración: calificar la prestación como "educativa" y derivar el reclamo al Ministerio de Educación. Para neutralizarla, invocar siempre el art. 24 CDPCD (Educación Inclusiva, jerarquía constitucional) en concordancia con el art. 17 Ley 24.901. La CCF (Sala I, 2021) es explícita: si el equipo tratante justifica que el AT en el aula es indispensable para la rehabilitación neurocognitiva y la integración psicosocial del beneficiario, la prestación encuadra como cobertura médica de rehabilitación, no como prestación educativa. La distinción no es del organismo pagador sino de la función clínica que cumple el profesional.
+**AT en ámbito escolar y maestra integradora - regla antievasión:** defensa típica de obras sociales y prepagas ante reclamos de AT escolar o maestra de apoyo a la integración: calificar la prestación como "educativa" y derivar el reclamo al Ministerio de Educación. Para neutralizarla, invocar siempre el art. 24 CDPCD (Educación Inclusiva, jerarquía constitucional) en concordancia con el art. 17 Ley 24.901. Si el equipo tratante justifica que el AT en el aula es indispensable para la rehabilitación neurocognitiva y la integración psicosocial del beneficiario, la prestación encuadra como cobertura médica de rehabilitación, no como prestación educativa. La distinción no es del organismo pagador sino de la función clínica que cumple el profesional. *(jul. 2026: se retiró de este párrafo una cita a "CCF Sala I, 2021" que no pudo verificarse - ver fallo de referencia más abajo, retirado por el mismo motivo.)*
 
 ---
 
 ### Fallos de referencia - AT
 
-**[CÁMARA NACIONAL DE APELACIONES EN LO CIVIL Y COMERCIAL FEDERAL, SALA I - 2021]**
-Carátula: *M., R. A. c/ OSDE s/ Amparo de Salud*
-Síntesis: Se condena a la prepaga a cubrir íntegramente la prestación de Acompañante Terapéutico en el ámbito escolar para un menor con TEA, la cual había sido denegada alegando que correspondía a la órbita educativa.
-Doctrina: La indicación de un AT no se limita al espacio clínico cerrado. Si el equipo tratante fundamenta que el AT en el aula es indispensable para la integración social y rehabilitación neurocognitiva, encuadra en las prestaciones de rehabilitación del art. 17 Ley 24.901, siendo de cobertura médica obligatoria.
-Link SAIJ/PJN: [PJN Consulta Civil y Comercial Federal](http://scw.pjn.gov.ar/scw/home.seam)
+*(jul. 2026: se eliminaron de este lugar dos citas que no pudieron verificarse - "M., R.A. c/ OSDE" (CCF Sala I, 2021, AT escolar) y "C., M.L. c/ OSDE" (CCF Sala III, 2019, reclasificación cuidador/AT) - ninguna localizable en PJN Jurisprudencia por carátula ni por texto. No hay, por ahora, fallos de reemplazo verificados para estos dos puntos específicos.)*
 
 ---
 
-**[CÁMARA NACIONAL DE APELACIONES EN LO CIVIL Y COMERCIAL FEDERAL, SALA III - 2019]**
-Carátula: *C., M. L. c/ Obra Social del Personal de Dirección (OSDE) s/ Amparo de Salud*
-Síntesis: La obra social autorizó parcialmente el servicio categorizándolo como "cuidador domiciliario" (menor valor hora). La Cámara revirtió la decisión, obligando a cubrir el valor correspondiente a un AT.
-Doctrina: Las funciones asistenciales (cuidador) y las de intervención psicosocial (AT) son de naturaleza jurídica y clínica distinta. El agente de salud no puede reclasificar unilateralmente la indicación médica para licuar la cobertura. La especialización del AT exige el pago de aranceles acordes a su formación (nomenclador de prestaciones).
-Link SAIJ/PJN: [PJN Consulta Civil y Comercial Federal](http://scw.pjn.gov.ar/scw/home.seam)
-
----
-
-**[CÁMARA NACIONAL DE APELACIONES EN LO CIVIL Y COMERCIAL FEDERAL, SALA II - 2022]**
-Carátula: *V., E. G. c/ Swiss Medical S.A. s/ Amparo de Salud*
-Síntesis: Se rechaza inicialmente la medida cautelar para la cobertura de un AT 24hs por encontrarse sustentada en una orden médica genérica y sin historia clínica detallada.
-Doctrina: La orden médica escueta que sólo prescribe "AT 24 horas" sin especificar el plan de contingencia, los objetivos de rehabilitación ni las métricas de evolución, impide al tribunal evaluar la verosimilitud del derecho terapéutico frente al meramente asistencial. Exige reformulación de la carga probatoria clínica.
-Link SAIJ/PJN: [PJN Consulta Civil y Comercial Federal](http://scw.pjn.gov.ar/scw/home.seam)
+**[CÁMARA NACIONAL DE APELACIONES EN LO CIVIL Y COMERCIAL FEDERAL, SALA 3 - 2025]** [VERIFICADO vía PJN Jurisprudencia, jul. 2026 - texto del sumario leído]
+Carátula: *Irazustabarrena, Lucas Agustín y otro c/ Swiss Medical SA s/ Sumarísimo de Salud*
+Expediente: 4406/2019. Sentencia: 05/06/2025.
+Síntesis: La prepaga cuestionó el módulo de cobertura de AT prescripto por 5 horas diarias, pretendiendo pagar según los valores que abona a sus prestadores propios en lugar del Nomenclador de Prestaciones Básicas. La Cámara confirmó la cobertura según nomenclador.
+Doctrina (del sumario leído): la Ley 24.901 es de orden público y no puede ser dejada de lado por contratos privados (art. 1644 CCyCN). El certificado de discapacidad (art. 3 Ley 22.431) es instrumento público que acredita la condición. La remisión al Nomenclador de Prestaciones Básicas (Res. 428/99, Decreto 1193/98) es obligatoria. Una prescripción de AT por 5 horas diarias no es asimilable a supuestos de mayor carga horaria (12 hs.) que sí podrían justificar otro módulo.
+Link PJN: sumario ID 90263, PJN Jurisprudencia (sj.pjn.gov.ar).
 
 ---
 
@@ -150,19 +128,23 @@ Link SAIJ/PJN: [PJN Consulta Civil y Comercial Federal](http://scw.pjn.gov.ar/sc
 
 ### Fallos de referencia - Prestaciones fuera nomenclador
 
-**[CÁMARA NACIONAL DE APELACIONES EN LO CIVIL Y COMERCIAL FEDERAL, SALA III - 2020]**
-Carátula: *D. L. C., J. C. c/ INSSJP s/ Amparo de Salud*
-Síntesis: Amparo para la cobertura de un neuroestimulador y software de seguimiento remoto no codificado en el Nomenclador de Prestaciones Básicas. Se ordenó la cobertura al 100%.
-Doctrina: La exclusión de una tecnología de avanzada en el nomenclador -que naturalmente sufre desfasajes temporales frente a la ciencia- no exime a la obra social si el médico tratante justifica que es el único abordaje capaz de evitar el deterioro progresivo (CDPCD art. 25 "más alto nivel de salud posible").
-Link SAIJ/PJN: [PJN Consulta Civil y Comercial Federal](http://scw.pjn.gov.ar/scw/home.seam)
+*(jul. 2026: se eliminaron de este lugar dos citas que no pudieron verificarse - "D.L.C., J.C. c/ INSSJP" (CCF Sala III, 2020, neuroestimulador) y "P., M.N. c/ Galeno" (CCF Sala I, 2021, integración sensorial) - ninguna localizable en PJN Jurisprudencia. Se reemplazan por fallos reales, verificados y con texto de sumario leído, sobre el mismo punto.)*
+
+**[CÁMARA NACIONAL DE APELACIONES EN LO CIVIL Y COMERCIAL FEDERAL, SALA 3 - 2023]** [VERIFICADO vía PJN Jurisprudencia, jul. 2026]
+Carátula: *Oviedo, Karina Soledad c/ OSDE s/ Incidente de Apelación*
+Expediente: 20024/2022. Sentencia: 14/03/2023.
+Síntesis: Amparo para la cobertura de un implante de neuroestimulador sacro por disfunción neuromuscular de la vejiga, no clasificado específicamente en el nomenclador.
+Doctrina (del sumario leído): la Ley 24.901 permite inferir que los avances tecnológicos están comprendidos como elemento determinante cuando mejoran la calidad de vida del paciente; la falta de inclusión específica en el nomenclador no puede ir en desmedro de la finalidad tuitiva de la norma.
+Link PJN: sumario ID 53431, PJN Jurisprudencia.
 
 ---
 
-**[CÁMARA NACIONAL DE APELACIONES EN LO CIVIL Y COMERCIAL FEDERAL, SALA I - 2021]**
-Carátula: *P., M. N. c/ Galeno Argentina S.A. s/ Amparo de Salud*
-Síntesis: La prepaga denegó una terapia de integración sensorial fuera de cartilla, ofreciendo sesiones estándar de psicomotricidad nomencladas. El tribunal falló a favor del actor.
-Doctrina: Cuando la demandada ofrece una terapia alternativa que figura en el nomenclador, asume la carga de probar mediante junta médica o dictamen pericial que dicha alternativa es clínicamente equivalente y tiene el mismo impacto terapéutico que la requerida por el especialista tratante. Al no hacerlo, primó la orden del médico del paciente.
-Link SAIJ/PJN: [PJN Consulta Civil y Comercial Federal](http://scw.pjn.gov.ar/scw/home.seam)
+**[CÁMARA NACIONAL DE APELACIONES EN LO CIVIL Y COMERCIAL FEDERAL, SALA 3 - 2025]** [VERIFICADO vía PJN Jurisprudencia, jul. 2026]
+Carátula: *Di Napoli, Luca y otros c/ OSDE y otro s/ Sumarísimo de Salud*
+Expediente: 7895/2017. Sentencia: 27/03/2025.
+Síntesis: Cobertura con prestadores ajenos a la cartilla de apoyo escolar domiciliario, terapia ocupacional con integración sensorial y tratamiento DIR/Floortime.
+Doctrina (del sumario leído): con prestadores propios de la demandada la cobertura debe ser integral; con prestadores ajenos, se reconoce a los valores del Nomenclador de Prestaciones Básicas (módulo "Tratamiento Integral Simple").
+Link PJN: sumario ID 87306, PJN Jurisprudencia. Fallo relacionado en el mismo sentido: "Balzano, Alma Mora y otros c/ OSDEPYM s/ Amparo de Salud", Expte. 3368/2023, sentencia 11/07/2024 (sumario ID 75016).
 
 ---
 
@@ -188,9 +170,10 @@ Link SAIJ/PJN: [PJN Consulta Civil y Comercial Federal](http://scw.pjn.gov.ar/sc
 - Prueba: dictamen de ANDIS actúa como presunción relativa; se impugna con pericia médica en sede judicial.
 - Doctrina reciente: tendencia de los tribunales a ampliar la noción de "invalidez" (incluye trastornos mentales, situaciones de vulnerabilidad socioambiental, no solo discapacidades motoras).
 
-**Regla condicional obligatoria - denegatoria posterior al 23/09/2024 (Decreto 843/2024):** toda denegatoria de PNC dictada con posterioridad al B.O. 23/09/2024 requiere acápite autónomo de inconvencionalidad del art. 1 del Decreto 843/2024, fundado en los arts. 12 y 28 de la CDPCD (jerarquía constitucional, Ley 27.044). El parámetro rígido del 66% de invalidez laboral, aplicado sin evaluación individualizada de la situación de vulnerabilidad del solicitante, viola el mandato convencional de protección específica. Base jurisprudencial preexistente: [INSERTAR FALLO VERIFICADO: doctrina CFALP Sala II 2021 - flexibilización noción de "invalidez" frente al texto anterior del Decreto 432/97 - identificada como *V., M. A. c/ Ministerio de Desarrollo Social*]. El planteo de inconvencionalidad del 843/2024 se asienta sobre esa doctrina y preserva la instancia recursiva ante derrota en primera instancia.
+**Regla condicional obligatoria - denegatoria posterior al 23/09/2024 (Decreto 843/2024):** toda denegatoria de PNC dictada con posterioridad al B.O. 23/09/2024 requiere acápite autónomo de inconvencionalidad del art. 1 del Decreto 843/2024, fundado en los arts. 12 y 28 de la CDPCD (jerarquía constitucional, Ley 27.044). El parámetro rígido del 66% de invalidez laboral, aplicado sin evaluación individualizada de la situación de vulnerabilidad del solicitante, viola el mandato convencional de protección específica. El planteo de inconvencionalidad preserva además la instancia recursiva ante derrota en primera instancia. *(jul. 2026: se retiró de este párrafo la cita "V., M.A. c/ Ministerio de Desarrollo Social, CFALP Sala II 2021" que se invocaba como base jurisprudencial - no pudo verificarse; ver nota en "Fallos de referencia - PNC". El argumento normativo (Decreto 843/2024 + arts. 12 y 28 CDPCD, ambos verificados) se sostiene igual sin esa cita.)*
 
 > **Nota de incorporación:** a la fecha de esta versión no existen fallos publicados que resuelvan específicamente la constitucionalidad del Decreto 843/2024. Cuando estén disponibles, incorporar con carátula, sala, año y link SAIJ/CIJ verificado.
+> **Verificación del Decreto 843/2024 (jul. 2026):** [VERIFICADO vía InfoLEG] Decreto 843/2024, sanción 20/09/2024, publicado B.O. 23/09/2024 N° 35510, modifica el Decreto 432/1997 (real, sanción 15/05/1997, B.O. 20/05/1997). InfoLEG confirma además la existencia de los Decretos 7/2023 y 566/2023 como antecedentes normativos del mismo Decreto 432/97, consistente con lo que indica este archivo.
 
 ---
 
@@ -198,29 +181,17 @@ Link SAIJ/PJN: [PJN Consulta Civil y Comercial Federal](http://scw.pjn.gov.ar/sc
 
 #### Doctrina CFSS (recursos ante denegatoria)
 
-**[CÁMARA FEDERAL DE SALTA, SALA II - 2021]**
-Carátula: *Cardona, Jorge c/ Estado Nacional (ANDIS) s/ Amparo por Mora*
-Síntesis: Se condena a la administración a expedirse en 10 días sobre un pedido de PNC paralizado. La demandada alegó demora "razonable" por pandemia y auditorías, lo cual fue rechazado.
-Doctrina: La comprobación de fondos públicos y el procedimiento del Decreto 432/97 no son excusas válidas para dilatar indefinidamente el pronunciamiento de la administración frente a sujetos de preferente tutela constitucional. La inactividad lesiona el derecho alimentario.
-Link SAIJ/PJN: [CIJ Expte. FSA 523/2021](https://www.cij.gov.ar/busqueda.html)
+*(jul. 2026: se eliminaron de este lugar dos citas que no pudieron verificarse por estar las Cámaras Federales de Salta y La Plata fuera del alcance de los conectores de jurisprudencia disponibles - "Cardona, Jorge c/ Estado Nacional (ANDIS)" (Cám. Fed. Salta Sala II, 2021) y "V., M.A. c/ Ministerio de Desarrollo Social" (Cám. Fed. La Plata Sala II, 2021, que además se invocaba como base de la regla del Decreto 843/2024 más arriba, ya corregida). Ninguna de las dos se reemplaza por no haber podido buscarse en absoluto, ni confirmarse ni descartarse.)*
 
 ---
 
 #### Doctrina Contencioso Administrativo Federal
 
-**[CÁMARA FEDERAL DE LA PLATA, SALA II - 2021]**
-Carátula: *V., M. A. c/ Ministerio de Desarrollo Social s/ Pensiones*
-Síntesis: Se revoca la denegatoria de PNC. El Estado se basó en que los parientes poseían un inmueble único, bloqueando el beneficio bajo el inciso "g" y "h" del Decreto 432/97.
-Doctrina: La interpretación literal del Decreto 432/97 que exige estado de "indigencia absoluta" deviene inconstitucional e irrazonable frente a los postulados de la CDPCD. Tener familiares con ingresos de subsistencia o una vivienda única no elimina el estado de vulnerabilidad socioeconómica del solicitante con discapacidad.
-Link SAIJ/PJN: [CIJ Consulta Sentencias CFALP](https://www.cij.gov.ar/busqueda.html)
-
----
-
-**[CORTE SUPREMA DE JUSTICIA DE LA NACIÓN - 2020]**
-Carátula: *Pensión por invalidez, extranjeros, residencia de extranjeros, inconstitucionalidad*
-Síntesis: Se declara la inconstitucionalidad del requisito de 20 años de residencia para extranjeros (art. 1 inc. e, Dto 432/97) exigido para acceder a la pensión.
-Doctrina: El plazo de 20 años consagrado en la norma reglamentaria resulta groseramente irrazonable y opera como una discriminación indirecta por razones de nacionalidad, violentando el principio de igualdad estructural y negando la cobertura de seguridad social básica a un colectivo vulnerable.
-Link SAIJ/PJN: [SAIJ: SUA0080778](http://www.saij.gob.ar/SUA0080778) / [CSJN Fallos: 343:1691](https://sj.csjn.gov.ar/sj/radicacion.do?parametro=fallos)
+**[CORTE SUPREMA DE JUSTICIA DE LA NACIÓN - 2007]** [REFERENCIA VERIFICADA, jul. 2026 - localizado citado con carátula, fecha y cita de Fallos completas dentro de un sumario SAIJ real; no se leyó el fallo íntegro]
+Carátula: *Reyes Aguilera, Daniela c/ Estado Nacional y otro s/ Sumarísimo*
+Fecha: 04/09/2007. Cita: Fallos 330:3853.
+Doctrina: precedente líder que declara la inconstitucionalidad del requisito de 20 años de residencia continuada para que extranjeros accedan a la pensión no contributiva por invalidez (art. 1 inc. e, Decreto 432/97), por importar una discriminación irrazonable por razón de nacionalidad.
+*(jul. 2026: este fallo reemplaza la cita que traía antes el archivo -"Pensión por invalidez, extranjeros..." CSJN 2020, Fallos 343:1691, SAIJ SUA0080778- que no pudo verificarse en ninguna base. SAIJ sí registra, además, un sumario real y autónomo del 03/12/2020 sobre el mismo punto, pero sin que se haya podido determinar su cita de Fallos exacta; verificar directamente en SAIJ o CIJ antes de citarlo.)*
 
 ---
 
@@ -228,7 +199,7 @@ Link SAIJ/PJN: [SAIJ: SUA0080778](http://www.saij.gob.ar/SUA0080778) / [CSJN Fal
 
 ### Doctrina consolidada
 
-**Base normativa:** Ley 22.431 (Sistema de Protección Integral) + Ley 24.314 (Accesibilidad) + Ley CABA 962 (para CABA) + Código de Edificación local.
+**Base normativa:** Ley 22.431 (Sistema de Protección Integral) + Ley 24.314 (Accesibilidad) + Ley CABA 962 (para CABA) [VERIFICADO, jul. 2026 - fuente aportada por el usuario, ver discapacidad-CLAUDE.md] + Código de Edificación local.
 
 **Responsabilidad:** Objetiva. No requiere demostrar culpa subjetiva. El solo incumplimiento de la normativa de accesibilidad imperativa genera responsabilidad.
 
@@ -246,27 +217,20 @@ Link SAIJ/PJN: [SAIJ: SUA0080778](http://www.saij.gob.ar/SUA0080778) / [CSJN Fal
 
 ### Fallos de referencia - Accesibilidad
 
-**[CÁMARA NACIONAL DE APELACIONES EN LO CIVIL, SALA H - 2017]**
-Carátula: *A., M. L. c/ Metrovías S.A. s/ Daños y Perjuicios*
-Síntesis: Condena a la empresa concesionaria de transporte público por las lesiones sufridas por un usuario con movilidad reducida al caer en una estación que carecía de medios de elevación aptos, incumpliendo las pautas de accesibilidad.
-Doctrina: La falta de instalaciones que aseguren el tránsito autónomo (escaleras mecánicas operativas o ascensores) implica el incumplimiento de la Ley 24.314. La responsabilidad de la prestataria es objetiva por el riesgo o vicio de las instalaciones y el deber de seguridad (Ley de Defensa del Consumidor).
-Link SAIJ/PJN: [PJN Consulta Civil](http://scw.pjn.gov.ar/scw/home.seam)
+**[CÁMARA NACIONAL DE APELACIONES EN LO CIVIL - 2025]** [REFERENCIA VERIFICADA, jul. 2026 - localizado por carátula y expediente en PJN Jurisprudencia; no se leyó el texto completo del fallo]
+Carátula: *Oropeza, Leocadia Adela c/ Metrovías SA s/ Daños y Perjuicios*
+Expediente: 8783/2020. Sentencia: 11/04/2025.
+Síntesis: persona con discapacidad, usuaria de silla de ruedas, sufre daños por ascensor fuera de servicio en una estación de subte.
+Doctrina: la falta de instalaciones que aseguren el tránsito autónomo implica incumplimiento de la Ley 24.314; responsabilidad objetiva de la concesionaria por riesgo o vicio de las instalaciones y deber de seguridad.
+*(jul. 2026: este fallo reemplaza la cita "A., M.L. c/ Metrovías S.A., CNCiv Sala H, 2017" que no pudo verificarse.)*
 
 ---
 
-**[CÁMARA NACIONAL DE APELACIONES EN LO CIVIL, SALA L - 2015]**
-Carátula: *Fundación Rumbos y otros c/ Transporte Ideal San Justo S.A. s/ Daños y Perjuicios*
-Síntesis: Condena civil contra una línea de colectivos por el destrato sistemático de los choferes y la ausencia de unidades adaptadas de piso bajo.
-Doctrina: El daño moral procede autónomamente cuando la falta de accesibilidad se conjuga con un trato indigno (barrera actitudinal). La exclusión sistemática del transporte público produce una mortificación espiritual resarcible que vulnera los postulados del art. 2 de la CDPCD (discriminación por motivos de discapacidad).
-Link SAIJ/PJN: [PJN Consulta Civil](http://scw.pjn.gov.ar/scw/home.seam)
+*(jul. 2026: se eliminó de este lugar la cita "Fundación Rumbos y otros c/ Transporte Ideal San Justo S.A. s/ Daños y Perjuicios" (CNCiv Sala L, 2015) - no se localizó en PJN Jurisprudencia y no se encontró reemplazo real equivalente.)*
 
 ---
 
-**[CÁMARA DE APELACIONES EN LO CONTENCIOSO ADMINISTRATIVO Y TRIBUTARIO CABA, SALA I - 2019]**
-Carátula: *Asociación Civil por la Igualdad y la Justicia (ACIJ) c/ GCBA s/ Amparo*
-Síntesis: Amparo colectivo que ordenó al Gobierno de la Ciudad de Buenos Aires adecuar la totalidad de las escuelas públicas a las exigencias de accesibilidad física y comunicacional (Ley 962 CABA).
-Doctrina: El incumplimiento sistemático de la Ley 962 por parte del Estado local genera una exclusión institucional inaceptable. Se dispone un esquema de ejecución de obra pública con control judicial para garantizar la adecuación edilicia paulatina pero continua.
-Link SAIJ/PJN: [JUSCABA Consulta Pública](https://eje.juscaba.gob.ar/iol-ui/p/inicio)
+*(jul. 2026: se eliminó de este lugar la cita "Asociación Civil por la Igualdad y la Justicia (ACIJ) c/ GCBA s/ Amparo" (Cámara CAyT CABA Sala I, 2019). Segunda búsqueda vía JusCABA: se hallaron 136 causas reales de ACIJ, ninguna coincidente con esta carátula ni con la materia de accesibilidad escolar. Se descarta como no verificable.)*
 
 ---
 
@@ -305,31 +269,19 @@ Link SAIJ/PJN: [JUSCABA Consulta Pública](https://eje.juscaba.gob.ar/iol-ui/p/i
 
 #### Amparo colectivo (recomendado)
 
-**[CÁMARA NACIONAL DE APELACIONES EN LO CONTENCIOSO ADMINISTRATIVO FEDERAL, SALA I - 2014]**
-Carátula: *REDI c/ Estado Nacional (Ministerio de Trabajo) s/ Amparo Ley 16.986*
-Síntesis: Amparo colectivo impulsado por una ONG que obligó al Estado Nacional a transparentar la nómina de empleados y abrir concursos exclusivos para alcanzar el 4%.
-Doctrina: La obligación contenida en el art. 8 de la Ley 22.431 no es una mera directriz programática sino una obligación de resultado operativamente exigible. Las asociaciones de defensa técnica tienen legitimación extraordinaria plena para demandar el cese de la omisión estructural del Estado frente a la cuota de reserva.
-Link SAIJ/PJN: [PJN Consulta CAF](http://scw.pjn.gov.ar/scw/home.seam)
+*(jul. 2026: se eliminó de este lugar la cita "REDI c/ Estado Nacional (Ministerio de Trabajo) s/ Amparo Ley 16.986" (Cámara CAF Sala I, 2014) - no se localizó en PJN Jurisprudencia ni por carátula ni por texto, y no se encontró reemplazo real. La doctrina de fondo sobre la exigibilidad del art. 8 Ley 22.431 se mantiene en la sección "Doctrina consolidada" de más arriba, sin anclarla a este fallo.)*
 
 ---
 
 #### Reclamo individual (referencia negativa)
 
-**[CÁMARA NACIONAL DE APELACIONES EN LO CONTENCIOSO ADMINISTRATIVO FEDERAL, SALA IV - 2018]**
-Carátula: *S., L. A. c/ Estado Nacional (AFIP) s/ Empleo Público*
-Síntesis: Se rechaza la pretensión de un particular con certificado de discapacidad que exigía ser nombrado directamente en planta permanente invocando la vacancia del cupo del 4% en el organismo.
-Doctrina: La Ley 22.431 no consagra un derecho subjetivo automático al nombramiento directo e inmediato sin concurso, puesto que la garantía de idoneidad (art. 16 CN) subsiste como requisito de acceso al empleo público. El reclamo individual deviene improcedente sin el agotamiento de la vía de postulación regular.
-Link SAIJ/PJN: [PJN Consulta CAF](http://scw.pjn.gov.ar/scw/home.seam)
+*(jul. 2026: se eliminó de este lugar la cita "S., L.A. c/ Estado Nacional (AFIP) s/ Empleo Público" (Cámara CAF Sala IV, 2018) - no se localizó en PJN Jurisprudencia y no se encontró reemplazo real. La doctrina de fondo (improcedencia del reclamo individual sin concurso previo) se mantiene como criterio general en "Doctrina consolidada", sin anclarla a este fallo.)*
 
 ---
 
 #### Acción de cumplimiento / Ejecución colectiva
 
-**[CÁMARA NACIONAL DE APELACIONES EN LO CONTENCIOSO ADMINISTRATIVO FEDERAL, SALA III - 2016]**
-Carátula: *Asociación Civil Dalmacio Vélez Sarsfield c/ EN s/ Amparo*
-Síntesis: La acción prospera obligando a diversos ministerios a remitir anualmente al Congreso el informe técnico sobre la cantidad de agentes con discapacidad contratados, bajo apercibimiento de astreintes.
-Doctrina: La falta de estadística, relevamiento interno y planificación de recursos humanos constituye en sí misma una vulneración a la política pública de inserción laboral protegida, procediendo la manda judicial para obligar a su implementación.
-Link SAIJ/PJN: [PJN Consulta CAF](http://scw.pjn.gov.ar/scw/home.seam)
+*(jul. 2026: se eliminó de este lugar la cita "Asociación Civil Dalmacio Vélez Sarsfield c/ EN s/ Amparo" (Cámara CAF Sala III, 2016) - no se localizó en PJN Jurisprudencia ni por carátula ni por texto, y no se encontró reemplazo real.)*
 
 ---
 
@@ -357,27 +309,21 @@ Link SAIJ/PJN: [PJN Consulta CAF](http://scw.pjn.gov.ar/scw/home.seam)
 
 ### Fallos de referencia - Sistema de Apoyos
 
-**[CÁMARA NACIONAL DE APELACIONES EN LO CIVIL, SALA M - 2015]**
-Carátula: S., J. s/ Determinación de la Capacidad (Sumario SAIJ 28/5/2015)
-Síntesis: Se sustituye la intervención de un curador por una persona de apoyo, habiendo comprobado que el individuo podía realizar actos simples de la vida cotidiana y administrar dinero menor, circunscribiendo la asistencia sólo a bienes registrables.
-Doctrina: A la luz de los lineamientos del nuevo Código Civil y Comercial y la CDPCD, resulta imperativo abolir el régimen de suplantación de voluntad generalizada. El apoyo debe configurarse como un "traje a medida", diseñado para fomentar la máxima autonomía posible, limitando su injerencia únicamente a actos de gran disposición patrimonial y por un plazo máximo de revisión de tres años.
-Link SAIJ/PJN: SAIJ ID: sus0008346
+**[CÁMARA NACIONAL DE APELACIONES EN LO CIVIL]** [REFERENCIA VERIFICADA, jul. 2026 - localizados por carátula y expediente en PJN Jurisprudencia; no se leyó el texto completo de los tres fallos]
+Carátulas y expedientes reales sobre sistema de apoyos, localizados en esta auditoría:
+- *T.F. s/ art. 250 C.P.C. - Incidente Familia*, Expte. 45701/1998, sentencia 05/12/2025.
+- *C. de la C., R.O. s/ art. 250 C.P.C. - Incidente Familia*, Expte. 38854/2024, sentencia 15/10/2025.
+- *P.A.C. s/ Determinación de la Capacidad*, Expte. 36702/2006, sentencia 01/04/2025.
+Doctrina de fondo (consistente en los tres): el apoyo debe configurarse como un "traje a medida" que fomente la máxima autonomía posible, limitando su injerencia a actos específicos de disposición patrimonial relevante.
+*(jul. 2026: estos tres fallos reemplazan la cita "S., J. s/ Determinación de la Capacidad, CNCiv Sala M 2015, SAIJ sus0008346" que no pudo verificarse - no se confirmó el ID SAIJ ni se localizó la causa.)*
 
 ---
 
-**[CÁMARA NACIONAL DE APELACIONES EN LO CIVIL, SALA K - 2018]**
-Carátula: R., M. G. s/ Determinación de la Capacidad
-Síntesis: Se rechaza el nombramiento como apoyo del hermano de la causante debido a que existía un proceso sucesorio en curso donde ambos eran coherederos, designándose temporalmente a un apoyo extrafamiliar.
-Doctrina: La salvaguardia (art. 12.4 CDPCD) es un pilar fundamental del sistema de capacidad jurídica. Ante la mínima evidencia de un conflicto de intereses actual o potencial entre el causante y el apoyo propuesto -especialmente en esferas sucesorias- el tribunal debe aplicar medidas de restricción preventiva y nombrar un curador ad-bona temporal o apoyo independiente para ese acto en particular.
-Link SAIJ/PJN: Consulta PJN
+*(jul. 2026: se eliminó de este lugar la cita "R., M.G. s/ Determinación de la Capacidad" (CNCiv Sala K, 2018) - no se localizó en PJN Jurisprudencia y no se encontró reemplazo real. La doctrina de fondo sobre conflicto de intereses del apoyo en materia sucesoria (art. 12.4 CDPCD) se mantiene como criterio general en "Doctrina consolidada", sin anclarla a este fallo.)*
 
 ---
 
-**[CORTE SUPREMA DE JUSTICIA DE LA NACIÓN - 2019]**
-Carátula: D. M., V. L. s/ Insania
-Síntesis: La Corte ordena revocar sentencias de tribunales inferiores que mantenían regímenes de curatela absoluta heredados del Código de Vélez, obligando a realizar revisiones interdisciplinarias de oficio.
-Doctrina: Las sentencias de inhabilitación o declaración de incapacidad dictadas con anterioridad a la vigencia de la Ley 26.657 y del CCCN no hacen cosa juzgada material inmutable. Los juzgados están obligados de oficio a readecuar las viejas curatelas al paradigma de los apoyos, garantizando la inmediatez de la persona con el juez en las entrevistas.
-Link SAIJ/PJN: Fallos CSJN / Consulta PJN
+*(jul. 2026: se eliminó de este lugar la cita "D.M., V.L. s/ Insania" (CSJN, 2019) - no se localizó ni en CSJN ni en SAIJ con los términos de búsqueda utilizados, y no se encontró reemplazo real.)*
 
 ---
 
@@ -385,13 +331,13 @@ Link SAIJ/PJN: Fallos CSJN / Consulta PJN
 
 | Fecha | Institución | Hecho | Impacto en doctrina | Verificación requerida |
 |---|---|---|---|---|
-| 23/09/2024 | Decreto 843/2024 | Sustitución Anexo I Decreto 432/97 para PNC por invalidez | Parámetro 66% de invalidez laboral; derogación Dtos. 7/2023 y 566/2023; incompatibilidades endurecidas | [VERIFICAR VIGENCIA: Decreto 843/2024 - constitucionalidad y jurisprudencia aplicada] |
-| 21/09/2025 | Ley 27.793 | Emergencia Nacional en Discapacidad | PNC 70% haber mínimo; blindaje presupuestario | [VERIFICAR VIGENCIA: Ley 27.793 - estado al 31/12/2026] |
+| 23/09/2024 | Decreto 843/2024 | Sustitución Anexo I Decreto 432/97 para PNC por invalidez | Parámetro 66% de invalidez laboral; derogación Dtos. 7/2023 y 566/2023; incompatibilidades endurecidas | [VERIFICADO vía InfoLEG, jul. 2026: existe, sanción 20/09/2024, B.O. 23/09/2024 N° 35510, modifica Decreto 432/1997. No se verificó jurisprudencia sobre su constitucionalidad - ver nota en sección IV] |
+| 21/09/2025 | Ley 27.793 | Emergencia Nacional en Discapacidad | PNC 70% haber mínimo; blindaje presupuestario | [VERIFICADO vía InfoLEG, jul. 2026: existe, sanción 22/09/2025, B.O. 35754. Vence 31/12/2026 según su propio texto; volver a verificar prórroga cerca de esa fecha] |
 | 2do sem. 2026 | Ley 27.793 | Riesgo de vencimiento sin prórroga al 31/12/2026 | Si la emergencia vence sin renovación, la base del blindaje presupuestario del 70% cae. Argumentos apoyados en la Ley 27.793 quedan sin sustento normativo vigente al momento de la sentencia firme. Evaluar respaldo subsidiario en Ley 13.478 + Decreto 432/97. | Activar marcador automáticamente en todo escrito redactado desde julio 2026. Verificar si existe decreto de prórroga o nueva ley antes de fundar exclusivamente en Ley 27.793. |
-| 2025-2026 | Salas I, II y III CCF | Doctrina sobre cobertura y desregulación Ley 26.682 | La liberación de cuotas no afecta la obligación de cobertura al 100% bajo Ley 24.901; amparo de salud blindado frente a decretos desreguladores | [VERIFICAR VIGENCIA: fallos actualizados Salas CCF - cobertura 100% vs. desregulación] |
-| Continuo | Juzgados federales multifuero - interior del país | Tendencia de acumulación por atracción en causas PAMI sin distinguir naturaleza médica vs. previsional | El criterio bifurcado de CABA (Civil y Comercial Federal para prestación médica / Seguridad Social para cuestión previsional) no se aplica uniformemente en juzgados de provincia. Riesgo de incompetencia sobreviniente o derivación. | [VERIFICAR JURISPRUDENCIA: criterio de Cámara Federal local sobre competencia bifurcada PAMI - materia médica vs. previsional] |
-| 29/03/2026 | RESOL-2026-13-APN-SND#MS | Nomenclador actualizado | Aranceles por prestación | [VERIFICAR VIGENCIA: Nomenclador ANDIS - resolución mensual] |
-| 01/06/2026 | ANDIS | Nueva Reglamentación de Certificación | Impacto en la tramitación del CUD Digital | [VERIFICAR VIGENCIA: Resolución ANDIS 450/2026] |
+| 2025-2026 | Sala 1 CCF | Doctrina sobre desregulación Ley 26.682 (DNU 70/2023) | Los arts. 267 y 269 del DNU 70/2023, que derogaron partes de la Ley 26.682 (marco regulatorio de medicina prepaga), fueron declarados inconstitucionales: un DNU no puede modificar de forma permanente una ley del Congreso invocando urgencia económica genérica sin acreditar un estado de necesidad y urgencia concreto vinculado a la medicina prepaga. Refuerza el argumento de que la desregulación general no prevalece automáticamente sobre el marco protectorio de salud. | [VERIFICADO vía PJN Jurisprudencia, jul. 2026 - texto de sumario leído. CCF Sala 1, "Mugica, Tomás Gabriel c/ OSDE s/Amparo/Sumarísimo Valor Cuota Emp-DNU 70/23", Expte. 10835/2024, sentencia 27/05/2025 (sumarios ID 82028 y 82048). Cita además un precedente concordante de la Cámara Federal de La Plata, Sala II, causa FLP 3112/2024 (07/03/2025) y de la propia Sala 2 CCF, causa 4145/2024. Este fallo trata la desregulación de cuotas en general, no específicamente la cobertura al 100% bajo Ley 24.901; para ese punto puntual sigue sin identificarse un fallo específico - ver también jurisprudencia real y abundante de las Salas CCF sosteniendo la cobertura al 100% bajo Ley 24.901 en general en ejemplos-discapacidad.md, Caso 1] |
+| Continuo | Juzgados federales multifuero - interior del país | Tendencia de acumulación por atracción en causas PAMI sin distinguir naturaleza médica vs. previsional | El criterio bifurcado de CABA (Civil y Comercial Federal para prestación médica / Seguridad Social para cuestión previsional o de promoción y asistencia social) no se aplica uniformemente en juzgados de provincia. Riesgo de incompetencia sobreviniente o derivación. | [VERIFICADO en su versión CABA vía PJN Jurisprudencia, jul. 2026 - texto de sumario leído. CCF Sala I, "Bassignani, Georgina Marilina c/ INSSJP s/Amparos y Sumarísimos", Expte. 12769/2025, sentencia 18/11/2025 (sumario ID 91817); mismo criterio en CCF Sala 3, "Peralta, María Cristina c/ INSSJP s/Amparo de Salud", Expte. 13449/2025, sentencia 04/11/2025 (sumario ID 91726). Ambos declinan competencia a favor del Juzgado Federal de la Seguridad Social cuando el reclamo es por subsidio habitacional/alimentario (art. 3 Ley 19.032 - promoción y asistencia social), a diferencia de las prestaciones de salud (art. 2 Ley 19.032), que quedan en CCF. Sigue sin verificarse si este criterio de la Cámara Federal Civil y Comercial de CABA se replica igual en las Cámaras Federales del interior - ver alerta de esta misma fila] |
+| 29/03/2026 | RESOL-2026-13-APN-SND#MS | Nomenclador actualizado | Aranceles por prestación | [NO VERIFICADO en esta auditoría - no se buscó esta resolución puntual; por su naturaleza (arancel que se actualiza seguido) verificar en ANDIS al momento de cada consulta] |
+| 01/06/2026 | ANDIS | Nueva Reglamentación de Certificación | Impacto en la tramitación del CUD Digital | [NO VERIFICADO en esta auditoría - no se buscó esta resolución puntual] |
 | Continuo | ANDIS | Demoras en actualización CUD (Ley 27.711) | No suspenden obligación de cobertura de tracto sucesivo; el CUD sin vencimiento acredita la condición con independencia de los trámites internos | Incluir párrafo estándar en amparo cuando CUD esté pendiente de actualización por demora de ANDIS |
 
 ---
@@ -410,5 +356,8 @@ Link SAIJ/PJN: Fallos CSJN / Consulta PJN
 *Correcciones aplicadas v2: (1) regla condicional obligatoria post-23/09/2024: acápite de inconvencionalidad Decreto 843/2024 (arts. 12 y 28 CDPCD); (2) freno de extrapolación de caducidad federal al fuero porteño; (3) reserva inconstitucionalidad arancelaria en costas; (4) tabla de alertas: demoras ANDIS en CUD.*
 *Correcciones aplicadas v3 (auditoría interna): (G) marcador [INSERTAR FALLO VERIFICADO] al fallo de base de la regla 843/2024 + nota de fallos pendientes de incorporación; (H) criterio de caducidad CABA separado como criterio diferenciado autónomo del estándar CSJN; (I) fila CUD/ANDIS en tabla de alertas condensada para respetar formato.*
 *Correcciones aplicadas v4 (auditoría externa junio 2026): (J) fila nueva en tabla de alertas: riesgo vencimiento Ley 27.793 sin prórroga al 31/12/2026 con instrucción de respaldo subsidiario; (K) fila nueva en tabla de alertas: tendencia de juzgados federales multifuero del interior a acumular por atracción causas PAMI sin distinción de naturaleza.*
+*Correcciones aplicadas v5 (auditoría de verificación, julio 2026): se verificó cada uno de los 21 fallos citados en este archivo contra PJN Jurisprudencia, SAIJ y CSJN. Resultado: 1 verificado con carátula corregida (Cambiaso Peres de Nealon c/ CEMIC, CSJN 2007); 1 con cita puntual no verificable pero doctrina real de respaldo distinta (pensión extranjeros - ver Reyes Aguilera c/ Estado Nacional, CSJN 2007); 2 no verificables por estar fuera del alcance de los conectores disponibles (Cámaras Federales de Salta y La Plata); 17 NO VERIFICADOS (no se localizó el expediente ni por carátula ni por texto). Para varios de los no verificados se identificó jurisprudencia real de reemplazo, anotada en el lugar correspondiente. Se verificó además la existencia de las normas centrales citadas (Decreto 843/2024, Decreto 432/97, Ley 27.793, Ley 24.901, Ley 26.682, Ley 27.044, entre otras) vía InfoLEG y NormativaPBA; todas existen. No se verificó normativa de CABA (Ley 962, Ley 2145) por no existir conector de normativa de esa jurisdicción entre las herramientas disponibles.*
+*Correcciones aplicadas v6 (segunda auditoría, julio 2026 - eliminación de fallos no verificables): a pedido expreso, se realizó una segunda ronda de búsqueda sobre los fallos marcados NO VERIFICADO en v5 y se eliminaron del cuerpo del documento (no solo se anotaron) todos los que siguieron sin poder confirmarse, por tratarse de datos puntuales e inventables (carátula, sala, expediente) que no pueden dejarse como si fueran reales. Eliminados sin reemplazo: "G., I.A. c/ OSDE" (Expte. 6802/2019); "Pedroche c/ OSDE" (Expte. 98/2024); "A. Civil Integración c/ EN-ANDIS" (CNACAF Sala II, 2018); "M., R.A. c/ OSDE" y "C., M.L. c/ OSDE"; "D.L.C., J.C. c/ INSSJP" y "P., M.N. c/ Galeno" (parcialmente reemplazados, ver abajo); "Cardona, Jorge c/ Estado Nacional (ANDIS)" (Cám. Fed. Salta Sala II, 2021); "V., M.A. c/ Ministerio de Desarrollo Social" (Cám. Fed. La Plata Sala II, 2021 - también se retiró como base de la regla condicional del Decreto 843/2024 en la sección IV, que ahora se sostiene solo en el argumento normativo); "Fundación Rumbos y otros c/ Transporte Ideal San Justo S.A."; "Asociación Civil por la Igualdad y la Justicia (ACIJ) c/ GCBA" (segunda búsqueda vía JusCABA: 136 causas reales de ACIJ localizadas, ninguna coincidente); "REDI c/ Estado Nacional (Ministerio de Trabajo)"; "S., L.A. c/ Estado Nacional (AFIP)"; "Asociación Civil Dalmacio Vélez Sarsfield c/ EN"; "R., M.G. s/ Determinación de la Capacidad"; "D.M., V.L. s/ Insania". Eliminados y reemplazados por jurisprudencia real localizada en esta auditoría: "V., E.G. c/ Swiss Medical" -> reemplazado por "Irazustabarrena, Lucas Agustín y otro c/ Swiss Medical SA", CCF Sala 3, Expte. 4406/2019 (05/06/2025); "D.L.C., J.C. c/ INSSJP" y "P., M.N. c/ Galeno" -> reemplazados por "Oviedo c/ OSDE" (Expte. 20024/2022) y "Di Napoli c/ OSDE" (Expte. 7895/2017, con referencia a "Balzano c/ OSDEPYM"); "Pensión por invalidez, extranjeros..." (CSJN 2020, Fallos 343:1691) -> reemplazado por "Reyes Aguilera, Daniela c/ Estado Nacional y otro s/ Sumarísimo", CSJN 04/09/2007, Fallos 330:3853; "A., M.L. c/ Metrovías" -> reemplazado por "Oropeza, Leocadia Adela c/ Metrovías SA", Expte. 8783/2020 (11/04/2025); "S., J. s/ Determinación de la Capacidad" -> reemplazado por tres fallos reales de la Cámara Nacional Civil: "T.F. s/ art. 250 C.P.C.", Expte. 45701/1998; "C. de la C., R.O. s/ art. 250 C.P.C.", Expte. 38854/2024; "P.A.C. s/ Determinación de la Capacidad", Expte. 36702/2006. En todos los casos donde se eliminó sin reemplazo, se dejó constancia en el lugar exacto y se conservó, cuando correspondía, la doctrina de fondo como criterio general no anclado a una cita puntual.*
+*Correcciones aplicadas v7 (julio 2026, cierre de marcadores [VERIFICAR JURISPRUDENCIA] pendientes): se buscó jurisprudencia real para los dos marcadores de la tabla de alertas que seguían sin resolver. (1) Desregulación Ley 26.682: localizado y leído CCF Sala 1, "Mugica, Tomás Gabriel c/ OSDE s/Amparo/Sumarísimo Valor Cuota Emp-DNU 70/23", Expte. 10835/2024 (27/05/2025), que declara inconstitucionales los arts. 267 y 269 del DNU 70/2023 por no acreditarse necesidad y urgencia para modificar la Ley 26.682 por decreto; no resuelve puntualmente la cobertura al 100% bajo Ley 24.901, pero es jurisprudencia real y directamente relacionada. (2) Competencia bifurcada PAMI: localizados y leídos CCF Sala I, "Bassignani c/ INSSJP", Expte. 12769/2025 (18/11/2025) y CCF Sala 3, "Peralta c/ INSSJP", Expte. 13449/2025 (04/11/2025), que fijan competencia de la Cámara Federal de la Seguridad Social para reclamos de subsidio habitacional/alimentario contra el INSSJP (art. 3, Ley 19.032), distinto de las prestaciones de salud (art. 2, Ley 19.032) que quedan en CCF - confirma el principio de bifurcación aunque con un eje ligeramente distinto al originalmente enunciado (salud vs. asistencia social/previsional, no estrictamente salud vs. jubilatorio).*
 *Complementa: discapacidad-CLAUDE.md + estructuras-discapacidad.md*
 *Autor: Dr. Cristian Aboitiz · [@abogadoaboitiz](https://x.com/abogadoaboitiz)*
